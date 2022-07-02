@@ -38,6 +38,12 @@ Features
 > Automatically paints locomotives, wagons, and train stations to match the transported items. Helps differentiate between them visually. Use *Manual Color Module* in trains to preserve their current paint.
 
 
+### Building
+
+- Reverse entire belt sections via controls shortcut ([Belt Reverser](https://mods.factorio.com/mod/belt-reverserup))
+> Lets you reverse entire belt sections with a single controls shortcut.
+
+
 Credits
 -------
 

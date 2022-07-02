@@ -10,6 +10,7 @@
         "? base >= 1.1.61",
         "automatic-station-painter >= 1.0.5",
         "Automatic_Train_Painter >= 1.1.4",
+        "belt-reverserup >= 0.0.9",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9"
     ]

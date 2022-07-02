@@ -4,5 +4,6 @@ Date: 99.99.9999.
   Features:
     - Low ammo alerts for turrets (via Ammo Alerts).
     - Train/station painting based on transported resources (via Automatic Station Painter, Added Automatic Train Painter, Fluid Wagong Color Mask).
+    - Reverse belt sections via shortcut (via Belt Reverser).
   Changes:
   Bugfixes:

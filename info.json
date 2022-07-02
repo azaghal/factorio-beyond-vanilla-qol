@@ -6,5 +6,8 @@
     "homepage": "https://github.com/azaghal/factorio-beyond-vanilla-qol",
     "description": "Modpack dedicated to vanilla gameplay with quality-of-life improvements.",
     "factorio_version": "1.1",
-    "dependencies": ["? base >= 1.1.61"]
+    "dependencies": [
+        "? base >= 1.1.61",
+        "Gun_Turret_Alerts >= 1.1.9"
+    ]
 }

@@ -2,5 +2,6 @@
 Version: 999.999.999
 Date: 99.99.9999.
   Features:
+    - Added Ammo Alerts mod.
   Changes:
   Bugfixes:

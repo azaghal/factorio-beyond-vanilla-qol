@@ -1,6 +1,7 @@
 Beyond Vanilla - QoL
 ====================
 
+
 About
 -----
 
@@ -23,12 +24,24 @@ Design decisions for the modpack are:
 - Mods should come pre-configured with sane defaults to make all of this possible.
 - Prefer mods with Free (as in Freedom) License that allows for code to be shared and improved.
 
+
+Features
+--------
+
+
+### Game feedback
+
+- Alerts for turrets low on ammo ([Ammo Alerts](https://mods.factorio.com/mod/Gun_Turret_Alerts))
+> Show map alerts for turrets low on ammo (5 magazines by default). Useful for early game defenses and detecting issues with ammo delivery systems.
+
+
 Credits
 -------
 
 As the old metaphor goes, this modpack stands on the shoulders of the giants. It would never be possible to create if it were not for both Wube Software's dedication to the game and its modding capabilities, nor without the many modders that have selflessly contributed their time and effort to creation of all the wonderous mods that are included in this modpack.
 
 I salute you, and thank you for making all of this possible and available in such a user-friendly form!
+
 
 License
 -------

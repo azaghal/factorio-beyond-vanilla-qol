@@ -2,6 +2,7 @@
 Version: 999.999.999
 Date: 99.99.9999.
   Features:
-    - Added Ammo Alerts mod.
+    - Low ammo alerts for turrets (via Ammo Alerts).
+    - Train/station painting based on transported resources (via Automatic Station Painter, Added Automatic Train Painter, Fluid Wagong Color Mask).
   Changes:
   Bugfixes:

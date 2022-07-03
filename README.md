@@ -33,6 +33,12 @@ Features
 
 - [OPTIONAL] Modpack controls configuration
 > Reconfigures controls from the mods to avoid collisions, and provide "saner" defaults. Disabled by default. Can be enabled under *Settings* -> *Mod settings* -> *Startup* -> *Beyond Vanilla - QoL*.
+>
+> Unfortunately, default base game controls cannot be changed through a mod, so when using this option it is recommended to make the following manual changes to base game controls as well (shown as primary/alternate control binding pairs):
+>
+> - Basic interaction
+>     - Zoom in: `Mouse wheel up` / `Not set`
+>     - Zoom out: `Mouse wheel down` / `Not set`
 
 
 ### Game feedback
@@ -61,6 +67,9 @@ Features
 
 - Copy and paste modules alongside crafting machine recipe settings ([Copy Paste Modules]( https://mods.factorio.com/mod/CopyPasteModules))
 > When copying and pasting settings from one crafting machine to another (using the default `SHIFT + Right/Left Mouse Click` control), the modules will carry over as well, and get inserted from player's inventory (or, if not enough is available, a logistic request will be created). Extremely helpful in later stages of game when working on high throughput designs.
+
+- Transition to ghost in cursor while building, use pipette for tile selections, cycle between tiers with item in cursor ([Cursor Enhancements](https://mods.factorio.com/mod/CursorEnhancements))
+> When build-dragging with an item, if you run out of an item, the cursor automatically switches to ghost, instead of throwing an error. The pipette can be used for picking a tile - simply press (the default control) `Q` while hovering over stone path/landfill etc to get the item into cursor. Finally, use (default control) `Shift + Mouse Wheel Up/Down` to cycle between different tiers of the item held in the cursor. This is useful for seamlessly switching between different tiers of belts, undergrounds, or even assemblers and pathing tiles.
 
 
 ### Blueprints

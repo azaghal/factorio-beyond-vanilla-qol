@@ -23,6 +23,13 @@ local mod_setting_overrides = {
             { name = "paint-cargo-wagon", type = "bool-setting", default = true },
             { name = "paint-fluid-wagon", type = "bool-setting", default = true }
         }
+    },
+    ['ConfigLampTimes'] = {
+        global = {
+            -- Disable lamp staggering, and make them light-up at lower levels of daylight.
+            { name = "config-lamp-times-brightness-start-1", type = "double-setting", default = 0.8 },
+            { name = "config-lamp-times-brightness-end-1", type = "double-setting", default = 0.8 }
+        }
     }
 }
 

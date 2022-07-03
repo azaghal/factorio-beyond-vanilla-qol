@@ -72,6 +72,9 @@ Features
 - Match entity planner indicators (upgrade/deconstruct/blueprint) with planner outline colours ([Color-Coded Planners](https://mods.factorio.com/mod/ColorCodedPlanners))
 > Use same outline/indicator colours for selected entities as the planner selection tool colour. Makes it easier to spot what actions will be taken on the entity.
 
+- Lamps turn on earlier in the evening and turn off later in the morning ([Configurable Lamp Times](https://mods.factorio.com/mod/ConfigLampTimes))
+> Makes lighting conditions from lamps more consistent across the day, and increases lamp duration time. Helps with strain on the eyes at the expanse of higher power consumption while the lamps are turned on.
+
 
 ### Vehicles
 

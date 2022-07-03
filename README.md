@@ -90,6 +90,12 @@ Features
 > Locate misplaced vehicles. For those "one time" moments when you forgot where you parked the car...
 
 
+### Crafting
+
+- Craft items from cursor ([Crafting Tools](https://mods.factorio.com/mod/Kux-CraftingTools))
+> Craft items that are currently held in the cursor. Reduces the constant opening of personal inventory for crafting that one additional inserter or belt that's missing for finishing-up the build, particularly in early game.
+
+
 Credits
 -------
 

@@ -57,6 +57,8 @@ Features
 
 - Change circuit signals, station names, filters, colors, and machine recipes in blueprints([Blueprint Cloner](https://mods.factorio.com/mod/Blueprint-Editor))
 > Pick-up an existing blueprint, drop it into the blueprint cloner, change configurable aspects of the blueprint (such as signals, train station names, recipes etc), and get a new blueprint out of it. This is useful when deploying generic blueprints that can work with multiple recipes etc.
+- Convert blueprints into signals (using constant combinators)([Blueprint Signals (continued)](https://mods.factorio.com/mod/BlueprintSignals_continued))
+> Convert existing blueprint into a (new) blueprint which contains constant combinators that emit signals with the exact item count necessary to build the blueprint. Once placed, combinators can be easily connected to a requester chest to fetch all of the necessary items in one place.
 
 
 Credits

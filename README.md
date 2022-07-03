@@ -29,6 +29,12 @@ Features
 --------
 
 
+### Controls
+
+- [OPTIONAL] Modpack controls configuration
+> Reconfigures controls from the mods to avoid collisions, and provide "saner" defaults. Disabled by default. Can be enabled under *Settings* -> *Mod settings* -> *Startup* -> *Beyond Vanilla - QoL*.
+
+
 ### Game feedback
 
 - Alerts for turrets low on ammo ([Ammo Alerts](https://mods.factorio.com/mod/Gun_Turret_Alerts))

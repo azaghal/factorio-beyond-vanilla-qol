@@ -12,6 +12,7 @@
         "Automatic_Train_Painter >= 1.1.4",
         "BetterAlertArrows >= 1.0.0",
         "belt-reverserup >= 0.0.9",
+        "Blueprint-Editor >= 3.1.0",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9"
     ]

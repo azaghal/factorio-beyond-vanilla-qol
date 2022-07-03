@@ -59,6 +59,9 @@ Features
 - Plan the base using blueprints and delay their construction ([Construction Planner](https://mods.factorio.com/mod/ConstructionPlanner))
 > Trigger bot construction of blueprints when ready by using approvals. Blueprint auto-approvals can be toggled as needed. Use selection tool to approve/unapprove blueprints.
 
+- Copy and paste modules alongside crafting machine recipe settings ([Copy Paste Modules]( https://mods.factorio.com/mod/CopyPasteModules))
+> When copying and pasting settings from one crafting machine to another (using the default `SHIFT + Right/Left Mouse Click` control), the modules will carry over as well, and get inserted from player's inventory (or, if not enough is available, a logistic request will be created). Extremely helpful in later stages of game when working on high throughput designs.
+
 
 ### Blueprints
 

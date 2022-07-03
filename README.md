@@ -51,15 +51,20 @@ Features
 
 - Reverse entire belt sections via controls shortcut ([Belt Reverser](https://mods.factorio.com/mod/belt-reverserup))
 > Lets you reverse entire belt sections with a single controls shortcut.
+
 - Force personal bots to build selected ghost entities ([Bot Prioritizer](https://mods.factorio.com/mod/BotPrioritizer))
 > Make your own personal bots build selected ghost entities, instead of waiting for the roboport bots to reach the spot across the map.
 > **WARNING:** Unfortunately, prioritised work cannot be undone (using the default `CTRL + Z` control). Keep that in mind when using this functionality, otherwise you may end-up undoing wrong parts of factory.
+
+- Plan the base using blueprints and delay their construction ([Construction Planner](https://mods.factorio.com/mod/ConstructionPlanner))
+> Trigger bot construction of blueprints when ready by using approvals. Blueprint auto-approvals can be toggled as needed. Use selection tool to approve/unapprove blueprints.
 
 
 ### Blueprints
 
 - Change circuit signals, station names, filters, colors, and machine recipes in blueprints([Blueprint Cloner](https://mods.factorio.com/mod/Blueprint-Editor))
 > Pick-up an existing blueprint, drop it into the blueprint cloner, change configurable aspects of the blueprint (such as signals, train station names, recipes etc), and get a new blueprint out of it. This is useful when deploying generic blueprints that can work with multiple recipes etc.
+
 - Convert blueprints into signals (using constant combinators)([Blueprint Signals (continued)](https://mods.factorio.com/mod/BlueprintSignals_continued))
 > Convert existing blueprint into a (new) blueprint which contains constant combinators that emit signals with the exact item count necessary to build the blueprint. Once placed, combinators can be easily connected to a requester chest to fetch all of the necessary items in one place.
 

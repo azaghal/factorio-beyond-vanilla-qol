@@ -19,6 +19,7 @@
         "car-finder >= 1.5.2",
         "ColorCodedPlanners >= 1.0.1",
         "ConfigLampTimes >= 0.0.5",
+        "ConstructionPlanner >= 1.0.5",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9"
     ]

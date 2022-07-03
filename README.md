@@ -96,6 +96,10 @@ Features
 
     > Allows creating detailed and precise calculations on how many resources and machines are necessary per second to have a certain amount of complex ingredient produced per time of unit (second, minute, hour). Extremely useful when making plans for a mega-base that needs to produce large quantities of science packs in order to maintain consistent research speed.
 
+-   Keep track of number of ghosts in an area during construction ([Ghost Counter](https://mods.factorio.com/mod/ghost-counter))
+
+    > Keep track of ghosts in selected construction area, check if you have enough items on you to finish construction, convert missing items into constant combinator signals, or even created temporary request to get the necessary items delivered by the logistics network. Same options are available even for a (non-placed) blueprint!
+
 
 ### Blueprints
 

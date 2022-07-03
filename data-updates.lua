@@ -59,6 +59,10 @@ local control_overrides = {
         { name = "fp_toggle_pause", key_sequence = "", alternative_key_sequence = "" },
         { name = "fp_floor_up", key_sequence = "", alternative_key_sequence = "" }
     },
+    ['ghost-counter'] = {
+        { name = "ghost-counter-selection-hotkey", key_sequence = "ALT + X", alternative_key_sequence = "" },
+        { name = "ghost-counter-blueprint-hotkey", key_sequence = "SHIFT + X", alternative_key_sequence = "" }
+    }
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

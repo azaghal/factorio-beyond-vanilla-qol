@@ -55,6 +55,9 @@ Features
 - Show additional information for items in info screens, like stack sizes etc. ([Extended Descriptions](https://mods.factorio.com/mod/extended-descriptions))
 > Lets you see more information about items in the info screen when you hover over them. Particularly useful to see stack sizes when setting-up conditions in combinators.
 
+- Search entire factory to find out where an item is stored, produced, built, used as a signal etc. ([Factory Search](https://mods.factorio.com/mod/FactorySearch))
+> Provides means to search entire factory for all machines that might be producing a specific items, chests that contain it, where the items has been built, or even used as a signal. The mod can even guide you to tour destination using arrow indicators. Super-easy to use, use `CONTROL + SHIFT + Left Mouse Click` on item in any window to locate it.
+
 
 ### Building
 

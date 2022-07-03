@@ -108,6 +108,12 @@ Features
 > Craft items that are currently held in the cursor. Reduces the constant opening of personal inventory for crafting that one additional inserter or belt that's missing for finishing-up the build, particularly in early game.
 
 
+### Miscellaneous
+
+- Enable research queue using a command in console ([Enable Research Queue](https://mods.factorio.com/mod/EnableResearchQueue))
+> For those times when you forgot to enable research queue during game creation. Simply run the `/enableresearchqueue` in console.
+
+
 Credits
 -------
 

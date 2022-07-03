@@ -77,6 +77,9 @@ Features
 - Prepare and test blueprints in editor environment, within the confines of the existing save-game ([Editor Extensions](https://mods.factorio.com/mod/EditorExtensions))
 > Switch to separate game surface and prepare your blueprints and test things out without having to switch to another save-game, using Factorio's editor tools and a couple of helpful entities that can generate infinite resources. Editor mode surface is kept completely separate from the main surface. **WARNING:** Keep in mind that time keeps running back on Nauvis surface - don't spend too much time in the editor only to find that half of your factory was destroted by the biters in the meantime...
 
+- Calculate ingredient and machine requirements for production quotas ([Factory Planner](https://mods.factorio.com/mod/factoryplanner))
+> Allows creating detailed and precise calculations on how many resources and machines are necessary per second to have a certain amount of complex ingredient produced per time of unit (second, minute, hour). Extremely useful when making plans for a mega-base that needs to produce large quantities of science packs in order to maintain consistent research speed.
+
 
 ### Blueprints
 

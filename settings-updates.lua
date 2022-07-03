@@ -45,6 +45,12 @@ local mod_setting_overrides = {
             { name = "ee-inventory-sync", type = "bool-setting", default = false },
             { name = "ee-testing-lab", type = "string-setting", default = "shared" }
         }
+    },
+    ['factoryplanner'] = {
+        player = {
+            -- Set default timescale unit to be one second. Easier for players to grasp, particularly since many things like belts etc show speeds per second .
+            { name = "fp_default_timescale", type = "string-setting", default = "one_second" }
+        }
     }
 }
 

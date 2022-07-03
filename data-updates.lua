@@ -51,7 +51,14 @@ local control_overrides = {
         { name = "shortcut-a-craft-1", key_sequence = "", alternative_key_sequence = "" },
         { name = "shortcut-a-craft-5", key_sequence = "", alternative_key_sequence = "" },
         { name = "shortcut-a-craft-all", key_sequence = "", alternative_key_sequence = "" },
-    }
+    },
+    ['factoryplanner'] = {
+        { name = "fp_toggle_interface", key_sequence = "CONTROL + ALT + R", alternative_key_sequence = "" },
+        -- Controls feel too specific, and they are using shortcuts with good chances of being used for something with more frequent usage (convenient location-wise).
+        { name = "fp_toggle_compact_view", key_sequence = "", alternative_key_sequence = "" },
+        { name = "fp_toggle_pause", key_sequence = "", alternative_key_sequence = "" },
+        { name = "fp_floor_up", key_sequence = "", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

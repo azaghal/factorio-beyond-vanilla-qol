@@ -52,6 +52,9 @@ Features
 - Show bottleneck/crafting indicators (output full, ingredient shortage) for each crafting machine ([Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite))
 > Show crafting status indicator light on each crafting machine. Makes it easier to spot builds/machines that have been misconfigured, or are having issues with power etc.
 
+- Show additional information for items in info screens, like stack sizes etc. ([Extended Descriptions](https://mods.factorio.com/mod/extended-descriptions))
+> Lets you see more information about items in the info screen when you hover over them. Particularly useful to see stack sizes when setting-up conditions in combinators.
+
 
 ### Building
 

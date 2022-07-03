@@ -25,6 +25,7 @@
         "EditorExtensions >= 1.13.4",
         "EnableResearchQueue >= 1.0.4",
         "even-distribution >= 1.0.10",
+        "extended-descriptions >= 1.0.16",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9",
         "Kux-CraftingTools >= 2.0.2"

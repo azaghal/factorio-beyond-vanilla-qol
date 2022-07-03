@@ -43,7 +43,7 @@ Features
 - Automated painting of trains/stations based on transported/delivered ingredients ([Automatic Station Painter](https://mods.factorio.com/mod/automatic-station-painter), [Automatic Train Painter](https://mods.factorio.com/mod/automatic-station-painter), [Fluid Wagon Color Mask](https://mods.factorio.com/mod/FluidWagonColorMask))
 > Automatically paints locomotives, wagons, and train stations to match the transported items. Helps differentiate between them visually. Use *Manual Color Module* in trains to preserve their current paint.
 
-- Better looking alert arrows ([BetterAlertArrows](https://mods.factorio.com/mod/BetterAlertArrows))
+- Better looking alert arrows ([Better Alert Arrows](https://mods.factorio.com/mod/BetterAlertArrows))
 > Nicer looking alert arrows. A purely visual change.
 
 

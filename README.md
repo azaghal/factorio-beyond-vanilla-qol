@@ -70,6 +70,12 @@ Features
 > Nicer looking alert arrows. A purely visual change.
 
 
+### Vehicles
+
+- Locate vehicle ([Car/Tank/Spidertron Locator Button](https://mods.factorio.com/mod/car-finder))
+> Locate misplaced vehicles. For those "one time" moments when you forgot where you parked the car...
+
+
 Credits
 -------
 

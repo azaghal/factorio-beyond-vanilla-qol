@@ -71,6 +71,9 @@ Features
 - Transition to ghost in cursor while building, use pipette for tile selections, cycle between tiers with item in cursor ([Cursor Enhancements](https://mods.factorio.com/mod/CursorEnhancements))
 > When build-dragging with an item, if you run out of an item, the cursor automatically switches to ghost, instead of throwing an error. The pipette can be used for picking a tile - simply press (the default control) `Q` while hovering over stone path/landfill etc to get the item into cursor. Finally, use (default control) `Shift + Mouse Wheel Up/Down` to cycle between different tiers of the item held in the cursor. This is useful for seamlessly switching between different tiers of belts, undergrounds, or even assemblers and pathing tiles.
 
+- Prepare and test blueprints in editor environment, within the confines of the existing save-game ([Editor Extensions](https://mods.factorio.com/mod/EditorExtensions))
+> Switch to separate game surface and prepare your blueprints and test things out without having to switch to another save-game, using Factorio's editor tools and a couple of helpful entities that can generate infinite resources. Editor mode surface is kept completely separate from the main surface. **WARNING:** Keep in mind that time keeps running back on Nauvis surface - don't spend too much time in the editor only to find that half of your factory was destroted by the biters in the meantime...
+
 
 ### Blueprints
 

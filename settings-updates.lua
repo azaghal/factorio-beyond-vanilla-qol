@@ -13,7 +13,7 @@ local mod_setting_overrides = {
         }
     },
     ['Automatic_Train_Painter'] = {
-        global = {
+        startup = {
             -- Enable equipment grid for locomotives in order to be able to preserve paint on trains via mod-provided equipment.
             { name = "loc-eqpm-grid", type = "bool-setting", default = true }
         },
@@ -25,10 +25,25 @@ local mod_setting_overrides = {
         }
     },
     ['ConfigLampTimes'] = {
-        global = {
+        startup = {
             -- Disable lamp staggering, and make them light-up at lower levels of daylight.
             { name = "config-lamp-times-brightness-start-1", type = "double-setting", default = 0.8 },
             { name = "config-lamp-times-brightness-end-1", type = "double-setting", default = 0.8 }
+        }
+    },
+    ['EditorExtensions'] = {
+        startup = {
+            -- Use a somewhat nicer background for the editor lab.
+            { name = "ee-lab-tile-graphics", type = "string-setting", default = "tutorial-grid" }
+        },
+        map = {
+            -- Use same level of technology in editor as in the regular mode.
+            { name = "ee-testing-lab-match-research", type = "bool-setting", default = true }
+        },
+        player = {
+            -- Disable inventory syncing between editor and regular mode and use laboratory by default - this way the mod should not behave in a cheaty manner.
+            { name = "ee-inventory-sync", type = "bool-setting", default = false },
+            { name = "ee-testing-lab", type = "string-setting", default = "shared" }
         }
     }
 }

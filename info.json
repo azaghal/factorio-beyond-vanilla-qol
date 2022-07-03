@@ -22,6 +22,7 @@
         "ConstructionPlanner >= 1.0.5",
         "CopyPasteModules >= 0.1.1",
         "CursorEnhancements >= 1.2.3",
+        "EditorExtensions >= 1.13.4",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9",
         "Kux-CraftingTools >= 2.0.2"

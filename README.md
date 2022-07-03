@@ -43,9 +43,6 @@ Features
 - Automated painting of trains/stations based on transported/delivered ingredients ([Automatic Station Painter](https://mods.factorio.com/mod/automatic-station-painter), [Automatic Train Painter](https://mods.factorio.com/mod/automatic-station-painter), [Fluid Wagon Color Mask](https://mods.factorio.com/mod/FluidWagonColorMask))
 > Automatically paints locomotives, wagons, and train stations to match the transported items. Helps differentiate between them visually. Use *Manual Color Module* in trains to preserve their current paint.
 
-- Better looking alert arrows ([Better Alert Arrows](https://mods.factorio.com/mod/BetterAlertArrows))
-> Nicer looking alert arrows. A purely visual change.
-
 - Show bottleneck/crafting indicators (output full, ingredient shortage) for each crafting machine ([Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite))
 > Show crafting status indicator light on each crafting machine. Makes it easier to spot builds/machines that have been misconfigured, or are having issues with power etc.
 
@@ -65,6 +62,12 @@ Features
 > Pick-up an existing blueprint, drop it into the blueprint cloner, change configurable aspects of the blueprint (such as signals, train station names, recipes etc), and get a new blueprint out of it. This is useful when deploying generic blueprints that can work with multiple recipes etc.
 - Convert blueprints into signals (using constant combinators)([Blueprint Signals (continued)](https://mods.factorio.com/mod/BlueprintSignals_continued))
 > Convert existing blueprint into a (new) blueprint which contains constant combinators that emit signals with the exact item count necessary to build the blueprint. Once placed, combinators can be easily connected to a requester chest to fetch all of the necessary items in one place.
+
+
+### Visuals
+
+- Better looking alert arrows ([Better Alert Arrows](https://mods.factorio.com/mod/BetterAlertArrows))
+> Nicer looking alert arrows. A purely visual change.
 
 
 Credits

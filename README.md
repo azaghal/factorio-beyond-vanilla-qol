@@ -69,6 +69,9 @@ Features
 - Better looking alert arrows ([Better Alert Arrows](https://mods.factorio.com/mod/BetterAlertArrows))
 > Nicer looking alert arrows. A purely visual change.
 
+- Match entity planner indicators (upgrade/deconstruct/blueprint) with planner outline colours ([Color-Coded Planners](https://mods.factorio.com/mod/ColorCodedPlanners))
+> Use same outline/indicator colours for selected entities as the planner selection tool colour. Makes it easier to spot what actions will be taken on the entity.
+
 
 ### Vehicles
 

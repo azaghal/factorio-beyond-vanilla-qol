@@ -17,6 +17,7 @@
         "BotPrioritizer >= 0.2.3",
         "BottleneckLite >= 1.2.3",
         "car-finder >= 1.5.2",
+        "ColorCodedPlanners >= 1.0.1",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9"
     ]

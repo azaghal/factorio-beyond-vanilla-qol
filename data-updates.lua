@@ -8,6 +8,15 @@ local control_overrides = {
     ['BotPrioritizer'] = {
         { name = "botprio-hotkey", key_sequence = "CONTROL + ALT + C", alternative_key_sequence = "" }
     },
+    ['BlueprintTools'] = {
+        -- Controls for these actions are maybe a bit too specific,
+        -- and it might be easier to visually remember to simply drop
+        -- the blueprint onto an icon in the game.
+        { name = "bpt-swap-wire-colors", key_sequence = "", alternative_key_sequence = "" },
+        { name = "bpt-set-tiles", key_sequence = "", alternative_key_sequence = "" },
+        { name = "bpt-quick-grid", key_sequence = "", alternative_key_sequence = "" },
+        { name = "bpt-configure", key_sequence = "", alternative_key_sequence = "" }
+    },
     ['Kux-CraftingTools'] = {
         -- Disable all craft-from-quickbar shortcuts. While useful,
         -- they also kinda take up a lot of shortcuts that player

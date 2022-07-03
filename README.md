@@ -111,6 +111,10 @@ Features
 
     > Convert existing blueprint into a (new) blueprint which contains constant combinators that emit signals with the exact item count necessary to build the blueprint. Once placed, combinators can be easily connected to a requester chest to fetch all of the necessary items in one place.
 
+-   Swap wires, set tiles, quick-grid or configure blueprint ([Blueprint Tools](https://mods.factorio.com/mod/BlueprintTools))
+
+    > With blueprint in your hand, click on one of the four buttons in top-left of the screen to either swap red and green wires in the blueprint, set tiles underneath entities (highly configurable with margins), set-up grid for the blueprint, or open full-blown blueprint settings window. Works with copied entities as well. **WARNING:** Due to game engine limitations, blueprints from player/game library cannot be used directly - move them into inventory first (just don't forget to move them back). Blueprint grid can even be nudged left/right/up/down to align it better to other entities.
+
 
 ### Visuals
 

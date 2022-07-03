@@ -14,6 +14,7 @@
         "belt-reverserup >= 0.0.9",
         "Blueprint-Editor >= 3.1.0",
         "BlueprintSignals_continued >= 0.4.0",
+        "BlueprintTools >= 1.2.2",
         "BotPrioritizer >= 0.2.3",
         "BottleneckLite >= 1.2.3",
         "car-finder >= 1.5.2",

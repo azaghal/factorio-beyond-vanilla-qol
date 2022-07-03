@@ -4,6 +4,9 @@
 local control_overrides = {
     ['belt-reverseup'] = {
         { name = "ReverseEntireBelt", key_sequence = "CONTROL + R", alternative_key_sequence = "" }
+    },
+    ['BotPrioritizer'] = {
+        { name = "botprio-hotkey", key_sequence = "SHIFT + ALT + C", alternative_key_sequence = "" }
     }
 }
 

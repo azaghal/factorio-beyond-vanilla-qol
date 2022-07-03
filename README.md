@@ -51,6 +51,9 @@ Features
 
 - Reverse entire belt sections via controls shortcut ([Belt Reverser](https://mods.factorio.com/mod/belt-reverserup))
 > Lets you reverse entire belt sections with a single controls shortcut.
+- Force personal bots to build selected ghost entities ([Bot Prioritizer](https://mods.factorio.com/mod/BotPrioritizer))
+> Make your own personal bots build selected ghost entities, instead of waiting for the roboport bots to reach the spot across the map.
+> **WARNING:** Unfortunately, prioritised work cannot be undone (using the default `CTRL + Z` control). Keep that in mind when using this functionality, otherwise you may end-up undoing wrong parts of factory.
 
 
 ### Blueprints

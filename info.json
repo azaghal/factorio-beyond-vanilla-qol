@@ -15,6 +15,7 @@
         "Blueprint-Editor >= 3.1.0",
         "BlueprintSignals_continued >= 0.4.0",
         "BotPrioritizer >= 0.2.3",
+        "BottleneckLite >= 1.2.3",
         "FluidWagonColorMask >= 1.1.0",
         "Gun_Turret_Alerts >= 1.1.9"
     ]

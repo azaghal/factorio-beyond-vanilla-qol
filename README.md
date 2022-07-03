@@ -113,6 +113,9 @@ Features
 - Enable research queue using a command in console ([Enable Research Queue](https://mods.factorio.com/mod/EnableResearchQueue))
 > For those times when you forgot to enable research queue during game creation. Simply run the `/enableresearchqueue` in console.
 
+- Distribute items evenly across machines ([Even Distribution](https://mods.factorio.com/mod/even-distribution))
+> When filling-up entities using the "`CONTROL + Left Mouse Click` dragging" mechanics, distribute items across them evenly. It is also possible to configure how the distribution should work - spread out new items evenly, or try to even-out the inventories, limit fuel/ammo quantity added to machine etc. Make sure to check the mod settings hidden behind a button attached to player inventory screen.
+
 
 Credits
 -------

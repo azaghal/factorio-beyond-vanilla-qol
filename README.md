@@ -64,6 +64,10 @@ Features
 
     > Provides means to search entire factory for all machines that might be producing a specific items, chests that contain it, where the items has been built, or even used as a signal. The mod can even guide you to tour destination using arrow indicators. Super-easy to use, use `CONTROL + SHIFT + Left Mouse Click` on item in any window to locate it.
 
+-   Visualise the layout and fluids in pipe networks ([Pipe Visualizer](https://mods.factorio.com/mod/PipeVisualizer))
+
+    > Show pipe network in form of color-coded network that spans across underground pipes as well. Greatly helps with troubleshooting complex layouts of piping.
+
 
 ### Building
 

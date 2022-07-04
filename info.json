@@ -33,6 +33,7 @@
         "ghost-counter >= 1.1.9",
         "Gun_Turret_Alerts >= 1.1.9",
         "Kux-CraftingTools >= 2.0.2",
-        "manual-inventory-sort >= 2.2.5"
+        "manual-inventory-sort >= 2.2.5",
+        "Milestones >= 1.3.4"
     ]
 }

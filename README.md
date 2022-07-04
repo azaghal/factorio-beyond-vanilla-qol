@@ -159,6 +159,10 @@ Features
 
     > Sorts inventories opened by player (chests, wagons etc). Helps when looking for particular items in cluttered personal train wagons.
 
+-   Per-savegame milestones ([Milestones](https://mods.factorio.com/mod/Milestones))
+
+    > Additional savegame-specific achievements to track and share with others.
+
 
 Credits
 -------

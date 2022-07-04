@@ -51,7 +51,12 @@ local mod_setting_overrides = {
             -- Set default timescale unit to be one second. Easier for players to grasp, particularly since many things like belts etc show speeds per second .
             { name = "fp_default_timescale", type = "string-setting", default = "one_second" }
         }
-    }
+    },
+    ['manual-inventory-sorting'] = {
+        player = {
+            { name = "manual-inventory-sort-on-open", type = "bool-setting", default = true }
+        }
+    },
 }
 
 for mod, scope_settings in pairs(mod_setting_overrides) do

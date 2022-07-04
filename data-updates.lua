@@ -71,7 +71,13 @@ local control_overrides = {
     ['ghost-counter'] = {
         { name = "ghost-counter-selection-hotkey", key_sequence = "ALT + X", alternative_key_sequence = "" },
         { name = "ghost-counter-blueprint-hotkey", key_sequence = "SHIFT + X", alternative_key_sequence = "" }
-    }
+    },
+    ['manual-inventory-sorting'] = {
+        -- Disable all shortcuts for toggling and sorting manually. Most likely players just want everything sorted from the get-go.
+        { name = "manual-inventory-sort", key_sequence = "", alternative_key_sequence = "" },
+        { name = "manual-inventory-sort-opened", key_sequence = "", alternative_key_sequence = "" },
+        { name = "manual-inventory-auto-sort-toggle", key_sequence = "", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

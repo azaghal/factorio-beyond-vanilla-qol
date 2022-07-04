@@ -155,6 +155,10 @@ Features
 
     > When filling-up entities using the "`CONTROL + Left Mouse Click` dragging" mechanics, distribute items across them evenly. It is also possible to configure how the distribution should work - spread out new items evenly, or try to even-out the inventories, limit fuel/ammo quantity added to machine etc. Make sure to check the mod settings hidden behind a button attached to player inventory screen.
 
+-   Sort opened inventories  ([Manual Inventory Sorting](https://mods.factorio.com/mod/manual-inventory-sort))
+
+    > Sorts inventories opened by player (chests, wagons etc). Helps when looking for particular items in cluttered personal train wagons.
+
 
 Credits
 -------

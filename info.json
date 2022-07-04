@@ -37,6 +37,7 @@
         "Milestones >= 1.3.4",
         "ModuleInserter >= 5.2.4",
         "PavementDriveAssistContinued >= 3.2.0",
-        "PipeVisualizer >= 1.0.4"
+        "PipeVisualizer >= 1.0.4",
+        "QueueToFrontNG >= 0.18.3"
     ]
 }

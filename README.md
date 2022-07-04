@@ -156,6 +156,9 @@ Features
 
     > Craft items that are currently held in the cursor. Reduces the constant opening of personal inventory for crafting that one additional inserter or belt that's missing for finishing-up the build, particularly in early game.
 
+-   Queue item crafting to the beginning or the end of the crafting queue ([Queue To Front](https://mods.factorio.com/mod/QueueToFrontNG))
+
+    > Toggle (with `CONTROL + Q` by default) whether the items crafted from inventory will be added to the beginning or the end of the crafting queue. Helpful for those cases where you don't want to cancel the whole crafting queue just to produce that one item you really need right now.
 
 ### Miscellaneous
 

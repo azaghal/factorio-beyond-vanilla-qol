@@ -78,6 +78,9 @@ local control_overrides = {
         { name = "manual-inventory-sort-opened", key_sequence = "", alternative_key_sequence = "" },
         { name = "manual-inventory-auto-sort-toggle", key_sequence = "", alternative_key_sequence = "" }
     },
+    ['ModuleInserter'] = {
+        { name = "get-module-inserter", key_sequence = "CONTROL + ALT + I", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

@@ -100,6 +100,10 @@ Features
 
     > Keep track of ghosts in selected construction area, check if you have enough items on you to finish construction, convert missing items into constant combinator signals, or even created temporary request to get the necessary items delivered by the logistics network. Same options are available even for a (non-placed) blueprint!
 
+-   Order module insertion/replacement using selection tool with custom presets ([Module Inserts](https://mods.factorio.com/mod/ModuleInserter))
+
+    > Allows replacing inserting and replacing modules in existing builds (both crafting machines and beacons) via selection tool. Multiple presets can be configured on per-machine type basis. Useful when transitioning to higher tier modules in machines.
+
 
 ### Blueprints
 

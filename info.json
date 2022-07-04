@@ -38,6 +38,7 @@
         "ModuleInserter >= 5.2.4",
         "PavementDriveAssistContinued >= 3.2.0",
         "PipeVisualizer >= 1.0.4",
-        "QueueToFrontNG >= 0.18.3"
+        "QueueToFrontNG >= 0.18.3",
+        "QuickItemSearch >= 2.1.4"
     ]
 }

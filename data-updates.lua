@@ -87,6 +87,12 @@ local control_overrides = {
         { name = "toggle_cruise_control", key_sequence = "ALT + V", alternative_key_sequence = "" },
         { name = "set_cruise_control_limit", key_sequence = "SHIFT + ALT + V", alternative_key_sequence = "" }
     },
+    ['QuickItemSearch'] = {
+        -- Use same binding as the game's default focus search control - reduces number of shortcuts needs to remember.
+        { name = "qis-search", key_sequence = "CONTROL + F", alternative_key_sequence = "" },
+        -- Additional alternative key binding for trashing all unrequested items that has slightly less hand movement from the mouse.
+        { name = "qis-search", key_sequence = "CONTROL + SHIFT + T", alternative_key_sequence = "CONTROL + SHIFT + ENTER" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

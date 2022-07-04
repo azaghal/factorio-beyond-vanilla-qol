@@ -69,6 +69,14 @@ local mod_setting_overrides = {
             { name = "PDA-setting-verbose", type = "bool-setting", default = false }
         }
     },
+    ['QuickItemSearch'] = {
+        player = {
+            -- Auto-close the window when an item is selected - makes the flow of using the tool better.
+            { name = "qis-auto-close-window", type = "bool-setting", default = true },
+            -- Use fuzzy search, so player does not need to know exact item names.
+            { name = "qis-fuzzy-search", type = "bool-setting", default = true }
+        }
+    },
 }
 
 for mod, scope_settings in pairs(mod_setting_overrides) do

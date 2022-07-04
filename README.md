@@ -179,6 +179,12 @@ Features
     > Additional savegame-specific achievements to track and share with others.
 
 
+### Logistics
+
+-   Easier item grabbing/temporary requests/auto-trashing ([Quick Item Search](https://mods.factorio.com/mod/QuickItemSearch))
+
+    > Use text-based search for getting an item (or its ghost) into cursor, set temporary or permanent personal logistical requests for getting the items, and auto-trash excess items from the inventory (trash everything above minimum values configured in personal logistics requests). For those times when you need an odd item or two that's not readily available in your quickbar. Use the default `CONTROL + F` control to show the item search window. **WARNING:** Current version of the mod contains a bug that makes the auto-trashing and temporary requests work a bit unreliable, and mess up your personal logistics requests set-up.
+
 Credits
 -------
 

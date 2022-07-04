@@ -57,6 +57,18 @@ local mod_setting_overrides = {
             { name = "manual-inventory-sort-on-open", type = "bool-setting", default = true }
         }
     },
+    ['PavementDriveAssistContinued'] = {
+        map = {
+            -- @TODO: There is a bug in PavementDriveAssistContinued that prevents this from working as expected - shortcut icons are not shown,
+            --        and one dangling technology for signs is preserved.
+            -- Disable technology requirement to allow mod usage without affecting vanilla game technology tree.
+            -- { name = "PDA-setting-tech-required", type = "bool-setting", default = false }
+        },
+        player = {
+            -- Disable outputing driving assistant status to console. There a shortcut bar button for showing this.
+            { name = "PDA-setting-verbose", type = "bool-setting", default = false }
+        }
+    },
 }
 
 for mod, scope_settings in pairs(mod_setting_overrides) do

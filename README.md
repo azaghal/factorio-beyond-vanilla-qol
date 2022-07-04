@@ -141,6 +141,10 @@ Features
 
     > Locate misplaced vehicles. For those "one time" moments when you forgot where you parked the car...
 
+-   Driver assistance system and cruise control ([Pavement Drive Assist Continued](https://mods.factorio.com/mod/PavementDriveAssistContinued))
+
+    > Keep your car or tank straight in the middle of the road when driving, and set cruise speed that should be maintained. Greatly reduces electric post casulties alongside high-frequency roads (and helps you relax your driving hand a bit). Just make sure to keep your eyes on the road nonetheless, it is _not_ a self-driving system... **WARNING:** This mod does add a couple of additional entities to the game (stop signs, speed limit signs). Additionally, due to a bug in the Pavement Drive Assist Continued mod, technology has to be researched for everything to work properly.
+
 
 ### Crafting
 

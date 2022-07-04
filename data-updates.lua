@@ -81,6 +81,12 @@ local control_overrides = {
     ['ModuleInserter'] = {
         { name = "get-module-inserter", key_sequence = "CONTROL + ALT + I", alternative_key_sequence = "" }
     },
+    ['PavementDriveAssistContinued'] = {
+        -- Bind controls something that reminds the player of vehicle functions (V for vehicle).
+        { name = "toggle_drive_assistant", key_sequence = "V", alternative_key_sequence = "" },
+        { name = "toggle_cruise_control", key_sequence = "ALT + V", alternative_key_sequence = "" },
+        { name = "set_cruise_control_limit", key_sequence = "SHIFT + ALT + V", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

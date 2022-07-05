@@ -8,6 +8,7 @@
     "factorio_version": "1.1",
     "dependencies": [
         "? base >= 1.1.61",
+        "AdvancedArtilleryRemotesContinued >= 1.0.0",
         "automatic-station-painter >= 1.0.5",
         "Automatic_Train_Painter >= 1.1.4",
         "BetterAlertArrows >= 1.0.0",

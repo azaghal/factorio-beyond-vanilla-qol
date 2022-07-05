@@ -207,6 +207,10 @@ Features
 
     > Makes it easier to move around the base, particularly being able to get past pipes and tightly packed machines - without having to deconstruct them just to get out.
 
+-   Simplified usage of artillery for clearing-out biter nests and exploration ([Advanced Artillery Remotes Continued](https://mods.factorio.com/mod/AdvancedArtilleryRemotesContinued))
+
+    > Destroying biter nests one shot at a time is fun the first ten times. Tops. After that it simply becomes a chore. Use dedicated remotes for ordering bombardment of every single biter spawner and worm in an area, or explore an area using coordinated radial shots from multiple artillery pieces.
+
 
 ### Logistics
 

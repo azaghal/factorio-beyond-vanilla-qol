@@ -3,6 +3,14 @@
 
 local mod_setting_overrides = {
 
+    ['AdvancedArtilleryRemotesContinued'] = {
+        map = {
+            -- Disable verbose/spammy output to console every time a remote is used.
+            { name = "aar-verbose", type = "bool-setting", default = false },
+            -- Target both spawners and worms.
+            { name = "aar-cluster-mode", type = "string-setting", default = "spawner-and-worms" }
+        }
+    },
     ['Gun_Turret_Alerts'] = {
         player = {
             -- Disable ammo warnings for cars to avoid spam from reserve/temporary cars.

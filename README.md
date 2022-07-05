@@ -134,6 +134,11 @@ Features
 
     > Light cones from flashlight and vehicles look more natural, with soft edges.
 
+-   Warmer color tone when using nightvision equipment ([Vil's Clear Nightvision](https://mods.factorio.com/mod/VilsClearNightvision))
+
+    > Changes the color tone when using nightvision equipment to be the same as during the daylight (no desaturation), making it easier on the eyes - especially when playing during evenings.
+
+
 ### Vehicles
 
 -   Locate vehicle ([Car/Tank/Spidertron Locator Button](https://mods.factorio.com/mod/car-finder))

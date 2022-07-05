@@ -50,6 +50,7 @@
         "Shortcuts-ick >= 1.1.27",
         "Squeak Through >= 1.8.2",
         "Tapeline >= 2.0.8",
-        "TaskList >= 0.4.2"
+        "TaskList >= 0.4.2",
+        "VilsClearNightvision >= 1.0.1"
     ]
 }

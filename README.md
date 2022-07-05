@@ -186,6 +186,10 @@ Features
 
     > Makes it possible to toggle a remote constant combinator and update its signals remotely. Helps when having to reconfigure remote outposts (especially when there's that one little tweak/setting you forgot...) or for turning parts of the base on or off.
 
+-   Wider variety of shortcuts on the shortcut bar ([Shortcuts for 1.1](https://mods.factorio.com/mod/Shortcuts-ick))
+
+    > Adds a plethora of shortcuts for the shortcut bar (not to be confused with game controls), for toggling and controlling all manners of things. Remotes (artillery/spidertron) are readily available via shortcuts instead of having to craft them. **WARNING:** The mod drops all recipes for remotes in the process.
+
 
 ### Logistics
 

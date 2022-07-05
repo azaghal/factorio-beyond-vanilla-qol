@@ -106,6 +106,10 @@ local control_overrides = {
         { name = "toggle-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-1", alternative_key_sequence = "" },
         { name = "open-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-2", alternative_key_sequence = "" }
     },
+    ['Tapeline'] = {
+        -- Switch to a control that is easier to remember for getting the tool.
+        { name = "tl-get-tool", key_sequence = "ALT + T", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

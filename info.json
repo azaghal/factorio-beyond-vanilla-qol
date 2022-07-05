@@ -48,6 +48,7 @@
         "resourcehighlighter-dark >= 2.0.6",
         "rotate-vehicles >= 0.0.7",
         "Shortcuts-ick >= 1.1.27",
-        "Squeak Through >= 1.8.2"
+        "Squeak Through >= 1.8.2",
+        "Tapeline >= 2.0.8"
     ]
 }

@@ -224,6 +224,10 @@ Features
 
     > Conveniently search and look at various recipes, machine requirements and anything else crafting-related (even seeing what technologies are needed to craft an item/use a recipe).
 
+-   Measure out and align entities using a tapeline ([Tapeline](https://mods.factorio.com/mod/Tapeline))
+
+    > Use tapelines to measure distances between entities, roads, main bus lanes... Place tapelines (can be easily removed) while dragging a particularly long belt - for those people that want to have their base neatly laid-out to a milimeter. **WARNING:** Unfortunately, due to some modding API limitations and specifics on how both mods are implemented, the *Construction Planner* and *Tapeline* mod have some bad interactions - when dragging with a tapeline across unapproved entities, they will get approved by mistake. Placing "permanent" tapelines (using `SHIFT` while dragging) when auto-approval mode is disabled will also result in placeholder ghosts getting placed. You may want to set-up some form of deconstructor for ghost entities in this case.
+
 
 Credits
 -------

@@ -178,6 +178,10 @@ Features
 
     > Additional savegame-specific achievements to track and share with others.
 
+-   Export and import quickbars configuration ([Quickbar Templates](https://mods.factorio.com/mod/QuickbarTemplates))
+
+    > Export and import current quickbar configuration in form of blueprints. Useful for getting the quickbar easily configured at any stage of the game (simply store multiple presets for early/mid/late game and use them as necessary).
+
 
 ### Logistics
 

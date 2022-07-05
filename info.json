@@ -39,6 +39,7 @@
         "PavementDriveAssistContinued >= 3.2.0",
         "PipeVisualizer >= 1.0.4",
         "QueueToFrontNG >= 0.18.3",
-        "QuickItemSearch >= 2.1.4"
+        "QuickItemSearch >= 2.1.4",
+        "QuickbarTemplates >= 2.2.0"
     ]
 }

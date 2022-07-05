@@ -44,6 +44,7 @@
         "QuickbarTemplates >= 2.2.0",
         "RateCalculator >= 2.4.4",
         "RealisticFlashlight >= 0.2.4",
-        "RecipeBook >= 3.4.5"
+        "RecipeBook >= 3.4.5",
+        "resourcehighlighter-dark >= 2.0.6"
     ]
 }

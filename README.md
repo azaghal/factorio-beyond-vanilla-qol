@@ -68,6 +68,10 @@ Features
 
     > Show pipe network in form of color-coded network that spans across underground pipes as well. Greatly helps with troubleshooting complex layouts of piping.
 
+-   Highlight resources on the map view ([Resource Highlighter (Dark's Version)](https://mods.factorio.com/mod/resourcehighlighter-dark))
+
+    > Easily highlight specific resources on the map view, alongside showing their sizes. Helps with bad contrasts between maps and resources.
+
 
 ### Building
 

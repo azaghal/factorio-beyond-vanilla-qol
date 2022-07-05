@@ -80,10 +80,6 @@ Features
     > Make your own personal bots build selected ghost entities, instead of waiting for the roboport bots to reach the spot across the map.
     > **WARNING:** Unfortunately, prioritised work cannot be undone (using the default `CTRL + Z` control). Keep that in mind when using this functionality, otherwise you may end-up undoing wrong parts of factory.
 
--   Plan the base using blueprints and delay their construction ([Construction Planner](https://mods.factorio.com/mod/ConstructionPlanner))
-
-    > Trigger bot construction of blueprints when ready by using approvals. Blueprint auto-approvals can be toggled as needed. Use selection tool to approve/unapprove blueprints.
-
 -   Copy and paste modules alongside crafting machine recipe settings ([Copy Paste Modules]( https://mods.factorio.com/mod/CopyPasteModules))
 
     > When copying and pasting settings from one crafting machine to another (using the default `SHIFT + Right/Left Mouse Click` control), the modules will carry over as well, and get inserted from player's inventory (or, if not enough is available, a logistic request will be created). Extremely helpful in later stages of game when working on high throughput designs.
@@ -92,14 +88,6 @@ Features
 
     > When build-dragging with an item, if you run out of an item, the cursor automatically switches to ghost, instead of throwing an error. The pipette can be used for picking a tile - simply press (the default control) `Q` while hovering over stone path/landfill etc to get the item into cursor. Finally, use (default control) `Shift + Mouse Wheel Up/Down` to cycle between different tiers of the item held in the cursor. This is useful for seamlessly switching between different tiers of belts, undergrounds, or even assemblers and pathing tiles.
 
--   Prepare and test blueprints in editor environment, within the confines of the existing save-game ([Editor Extensions](https://mods.factorio.com/mod/EditorExtensions))
-
-    > Switch to separate game surface and prepare your blueprints and test things out without having to switch to another save-game, using Factorio's editor tools and a couple of helpful entities that can generate infinite resources. Editor mode surface is kept completely separate from the main surface. **WARNING:** Keep in mind that time keeps running back on Nauvis surface - don't spend too much time in the editor only to find that half of your factory was destroted by the biters in the meantime...
-
--   Calculate ingredient and machine requirements for production quotas ([Factory Planner](https://mods.factorio.com/mod/factoryplanner))
-
-    > Allows creating detailed and precise calculations on how many resources and machines are necessary per second to have a certain amount of complex ingredient produced per time of unit (second, minute, hour). Extremely useful when making plans for a mega-base that needs to produce large quantities of science packs in order to maintain consistent research speed.
-
 -   Keep track of number of ghosts in an area during construction ([Ghost Counter](https://mods.factorio.com/mod/ghost-counter))
 
     > Keep track of ghosts in selected construction area, check if you have enough items on you to finish construction, convert missing items into constant combinator signals, or even created temporary request to get the necessary items delivered by the logistics network. Same options are available even for a (non-placed) blueprint!
@@ -107,10 +95,6 @@ Features
 -   Order module insertion/replacement using selection tool with custom presets ([Module Inserts](https://mods.factorio.com/mod/ModuleInserter))
 
     > Allows replacing inserting and replacing modules in existing builds (both crafting machines and beacons) via selection tool. Multiple presets can be configured on per-machine type basis. Useful when transitioning to higher tier modules in machines.
-
--   Calculate input/output rates for selected crafting machines ([Rate Calculator](https://mods.factorio.com/mod/RateCalculator))
-
-    > Select a group of crafting machines to receive information on how many ingredients machines need and how many products they output. Shows eventual shortages of machine productions within selected area etc.
 
 
 ### Blueprints
@@ -167,6 +151,7 @@ Features
 
     > Toggle (with `CONTROL + Q` by default) whether the items crafted from inventory will be added to the beginning or the end of the crafting queue. Helpful for those cases where you don't want to cancel the whole crafting queue just to produce that one item you really need right now.
 
+
 ### Miscellaneous
 
 -   Enable research queue using a command in console ([Enable Research Queue](https://mods.factorio.com/mod/EnableResearchQueue))
@@ -195,6 +180,30 @@ Features
 -   Easier item grabbing/temporary requests/auto-trashing ([Quick Item Search](https://mods.factorio.com/mod/QuickItemSearch))
 
     > Use text-based search for getting an item (or its ghost) into cursor, set temporary or permanent personal logistical requests for getting the items, and auto-trash excess items from the inventory (trash everything above minimum values configured in personal logistics requests). For those times when you need an odd item or two that's not readily available in your quickbar. Use the default `CONTROL + F` control to show the item search window. **WARNING:** Current version of the mod contains a bug that makes the auto-trashing and temporary requests work a bit unreliable, and mess up your personal logistics requests set-up.
+
+
+### Planning
+
+-   Plan the base using blueprints and delay their construction ([Construction Planner](https://mods.factorio.com/mod/ConstructionPlanner))
+
+    > Trigger bot construction of blueprints when ready by using approvals. Blueprint auto-approvals can be toggled as needed. Use selection tool to approve/unapprove blueprints.
+
+-   Prepare and test blueprints in editor environment, within the confines of the existing save-game ([Editor Extensions](https://mods.factorio.com/mod/EditorExtensions))
+
+    > Switch to separate game surface and prepare your blueprints and test things out without having to switch to another save-game, using Factorio's editor tools and a couple of helpful entities that can generate infinite resources. Editor mode surface is kept completely separate from the main surface. **WARNING:** Keep in mind that time keeps running back on Nauvis surface - don't spend too much time in the editor only to find that half of your factory was destroted by the biters in the meantime...
+
+-   Calculate ingredient and machine requirements for production quotas ([Factory Planner](https://mods.factorio.com/mod/factoryplanner))
+
+    > Allows creating detailed and precise calculations on how many resources and machines are necessary per second to have a certain amount of complex ingredient produced per time of unit (second, minute, hour). Extremely useful when making plans for a mega-base that needs to produce large quantities of science packs in order to maintain consistent research speed.
+
+-   Calculate input/output rates for selected crafting machines ([Rate Calculator](https://mods.factorio.com/mod/RateCalculator))
+
+    > Select a group of crafting machines to receive information on how many ingredients machines need and how many products they output. Shows eventual shortages of machine productions within selected area etc.
+
+-   Browse and drill down through item recipes ([Recipe Book](https://mods.factorio.com/mod/RecipeBook))
+
+    > Conveniently search and look at various recipes, machine requirements and anything else crafting-related (even seeing what technologies are needed to craft an item/use a recipe).
+
 
 Credits
 -------

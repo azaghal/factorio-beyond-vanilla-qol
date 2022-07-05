@@ -97,6 +97,10 @@ local control_overrides = {
         -- Switch to using a single keystroke for getting the tool, and for avoiding existing conflicts.
         { name = "rcalc-get-selection-tool", key_sequence = "N", alternative_key_sequence = "" }
     },
+    ['RecipeBook'] = {
+        -- Default control with ALT + mouse-button-1 does not work under GNU/Linux, since most desktop environments use it for moving the windows around by default.
+        { name = "rb-open-selected", key_sequence = "CONTROL + SHIFT + mouse-button-2", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

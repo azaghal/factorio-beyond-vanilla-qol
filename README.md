@@ -142,6 +142,9 @@ Features
 
     > Makes lighting conditions from lamps more consistent across the day, and increases lamp duration time. Helps with strain on the eyes at the expanse of higher power consumption while the lamps are turned on.
 
+-   Realistic-looking flashlight and vehicle light cones ([https://mods.factorio.com/mod/RealisticFlashlight](https://mods.factorio.com/mod/RealisticFlashlight))
+
+    > Light cones from flashlight and vehicles look more natural, with soft edges.
 
 ### Vehicles
 

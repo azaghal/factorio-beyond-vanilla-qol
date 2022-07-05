@@ -72,6 +72,10 @@ Features
 
     > Easily highlight specific resources on the map view, alongside showing their sizes. Helps with bad contrasts between maps and resources.
 
+-   Monitor raw resource patch consumption and depletion ([YARM - Resource Monitor](https://mods.factorio.com/mod/YARM))
+
+    > Keep track of all the resource patches - their remaining sizes, production rates, and estimated time of depletion. Gives good information on when new resource patches should be tapped into, or when a certain outpost has become obsolete and ready to be deconstructed.
+
 
 ### Building
 

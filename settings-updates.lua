@@ -77,6 +77,12 @@ local mod_setting_overrides = {
             { name = "qis-fuzzy-search", type = "bool-setting", default = true }
         }
     },
+    ['RateCalculator'] = {
+        player = {
+            -- Dismiss the tool after selecting an area. Might be preferred way and more consistent in how the other selection tools behave.
+            { name = "rcalc-dismiss-tool-on-selection", type = "bool-setting", default = true }
+        }
+    },
 }
 
 for mod, scope_settings in pairs(mod_setting_overrides) do

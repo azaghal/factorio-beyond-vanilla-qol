@@ -93,6 +93,10 @@ local control_overrides = {
         -- Additional alternative key binding for trashing all unrequested items that has slightly less hand movement from the mouse.
         { name = "qis-quick-trash-all", key_sequence = "CONTROL + SHIFT + T", alternative_key_sequence = "CONTROL + SHIFT + ENTER" }
     },
+    ['RateCalculator'] = {
+        -- Switch to using a single keystroke for getting the tool, and for avoiding existing conflicts.
+        { name = "rcalc-get-selection-tool", key_sequence = "N", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

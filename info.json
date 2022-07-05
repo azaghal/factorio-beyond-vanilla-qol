@@ -40,6 +40,7 @@
         "PipeVisualizer >= 1.0.4",
         "QueueToFrontNG >= 0.18.3",
         "QuickItemSearch >= 2.1.4",
-        "QuickbarTemplates >= 2.2.0"
+        "QuickbarTemplates >= 2.2.0",
+        "RateCalculator >= 2.4.4"
     ]
 }

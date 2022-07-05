@@ -108,6 +108,10 @@ Features
 
     > Allows replacing inserting and replacing modules in existing builds (both crafting machines and beacons) via selection tool. Multiple presets can be configured on per-machine type basis. Useful when transitioning to higher tier modules in machines.
 
+-   Calculate input/output rates for selected crafting machines ([Rate Calculator](https://mods.factorio.com/mod/RateCalculator))
+
+    > Select a group of crafting machines to receive information on how many ingredients machines need and how many products they output. Shows eventual shortages of machine productions within selected area etc.
+
 
 ### Blueprints
 

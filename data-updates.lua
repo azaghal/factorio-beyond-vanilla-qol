@@ -106,6 +106,16 @@ local control_overrides = {
         { name = "toggle-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-1", alternative_key_sequence = "" },
         { name = "open-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-2", alternative_key_sequence = "" }
     },
+    ['SpidertronEnhancements'] = {
+        -- Ability to enter vehicles directly with spidertron has been disabled through modpack settings.
+        { name = "spidertron-enhancements-enter-vehicles", key_sequence = "", alternative_key_sequence = "" },
+        -- Default key sequence "SHIFT + Q" is already in use by Cursor Enhancements mod.
+        { name = "spidertron-enhancements-spidertron-pipette", key_sequence = "SHIFT + ALT + Q", alternative_key_sequence = "" },
+        -- Default key sequence "ALT + Left Mouse Click" conflicts with most GNU/Linux desktop environments shortcut for moving the windows around.
+        { name = "spidertron-enhancements-use-alt-spidertron-remote", key_sequence = "SHIFT + mouse-button-1", alternative_key_sequence = "" },
+        -- Pick a better mnemonic for recalling the spidertron ('S' for spider), and avoid collision with Construction Planner key sequence.
+        { name = "spidertron-enhancements-recall-shortcut", key_sequence = "ALT + S", alternative_key_sequence = "" }
+    },
     ['Tapeline'] = {
         -- Switch to a control that is easier to remember for getting the tool.
         { name = "tl-get-tool", key_sequence = "ALT + T", alternative_key_sequence = "" }

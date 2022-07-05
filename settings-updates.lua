@@ -83,6 +83,29 @@ local mod_setting_overrides = {
             { name = "rcalc-dismiss-tool-on-selection", type = "bool-setting", default = true }
         }
     },
+    ['SpidertronEnhancements'] = {
+        startup = {
+            -- Disable corpse retrieval to preserve vanilla game balance.
+            { name = "spidertron-enhancements-enable-corpse", type = "bool-setting", default = false }
+        },
+        map = {
+            -- Disable entering vehicles and switching between player and spidetron to preserve the vanilla "feel" around their usage.
+            { name = "spidertron-enhancements-enter-entity", type = "string-setting", default = "none" },
+            { name = "spidertron-enhancements-show-spider-on-vehicle", type = "bool-setting", default = false },
+            { name = "spidertron-enhancements-enter-player", type = "bool-setting", default = false },
+            -- Disable inventory sorting since it is already covered by the Manual Inventory Sorting mod.
+            { name = "spidertron-enhancements-auto-sort-inventory", type = "bool-setting", default = false },
+            -- Provide player with temporary remote that disappears to avoid inventory clutter.
+            { name = "spidertron-enhancements-pipette-temporary-remote", type = "bool-setting", default = true }
+        }
+    },
+    ['SpidertronPatrols'] = {
+        startup = {
+            -- Disable spiderling and dock since they add new recipes and mechanics to vanilla game.
+            { name = "sp-enable-dock", type = "bool-setting", default = false },
+            { name = "sp-enable-spiderling", type = "bool-setting", default = false }
+        }
+    }
 }
 
 for mod, scope_settings in pairs(mod_setting_overrides) do

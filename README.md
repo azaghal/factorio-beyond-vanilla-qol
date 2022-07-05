@@ -157,6 +157,10 @@ Features
 
     > Rotate vehicles like any other entity in the game. Helpful to get that initial bearing and driving straight in specific direction.
 
+-   Enhanced control and use of spidertrons with better pathfinding and automated patrols ([Spidertron Enhancements](https://mods.factorio.com/mod/SpidertronEnhancements), [Spidertron Patrols](https://mods.factorio.com/mod/SpidertronPatrols))
+
+    > Provides some enhancements with player's use of spidertrons, such as being able to remotely open their inventories, get a temporary spidertron remote using pipette-like behaviour, recall last used spidertron (to follow the player), and use advanced pathfinding that makes the spidertron calculate path around water. Also introduces ability to set-up spidertron patrols, allowing you to spend less time moving spidertron back-and-forth to places where biters frequently damage railroad. **WARNING:** Many features of the two listed mods have been disabled by the modpack to preserve the feel of base game. Remote access to spidertron inventory is currently a bit cheaty since it does not respect player reach for moving items from and into spidertron's inventory. The requirement for additional technology that must be researched to use patrols is remnant of a possible bug in Spidertron Patrols mod (normally spiderlings get unlocked with it as well, but those are disabled for modpack purposes).
+
 
 ### Crafting
 

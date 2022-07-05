@@ -228,6 +228,10 @@ Features
 
     > Use tapelines to measure distances between entities, roads, main bus lanes... Place tapelines (can be easily removed) while dragging a particularly long belt - for those people that want to have their base neatly laid-out to a milimeter. **WARNING:** Unfortunately, due to some modding API limitations and specifics on how both mods are implemented, the *Construction Planner* and *Tapeline* mod have some bad interactions - when dragging with a tapeline across unapproved entities, they will get approved by mistake. Placing "permanent" tapelines (using `SHIFT` while dragging) when auto-approval mode is disabled will also result in placeholder ghosts getting placed. You may want to set-up some form of deconstructor for ghost entities in this case.
 
+-   Plan future work by creating tasks that can be assigned and completed (similar to a to-do list) ([Task List](https://mods.factorio.com/mod/TaskList))
+
+    > Create task items for planning out the work on the base. Noticed an issue in some part of factory? Create a task instead of trying to remember it all.
+
 
 Credits
 -------

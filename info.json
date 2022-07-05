@@ -49,6 +49,7 @@
         "rotate-vehicles >= 0.0.7",
         "Shortcuts-ick >= 1.1.27",
         "Squeak Through >= 1.8.2",
-        "Tapeline >= 2.0.8"
+        "Tapeline >= 2.0.8",
+        "TaskList >= 0.4.2"
     ]
 }

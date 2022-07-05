@@ -91,7 +91,7 @@ local control_overrides = {
         -- Use same binding as the game's default focus search control - reduces number of shortcuts needs to remember.
         { name = "qis-search", key_sequence = "CONTROL + F", alternative_key_sequence = "" },
         -- Additional alternative key binding for trashing all unrequested items that has slightly less hand movement from the mouse.
-        { name = "qis-search", key_sequence = "CONTROL + SHIFT + T", alternative_key_sequence = "CONTROL + SHIFT + ENTER" }
+        { name = "qis-quick-trash-all", key_sequence = "CONTROL + SHIFT + T", alternative_key_sequence = "CONTROL + SHIFT + ENTER" }
     },
 }
 

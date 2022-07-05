@@ -101,6 +101,11 @@ local control_overrides = {
         -- Default control with ALT + mouse-button-1 does not work under GNU/Linux, since most desktop environments use it for moving the windows around by default.
         { name = "rb-open-selected", key_sequence = "CONTROL + SHIFT + mouse-button-2", alternative_key_sequence = "" }
     },
+    ['lo-remote-constant'] = {
+        -- Fix conflicts with the base game technology screen, and try to keep the possibly commonly used shortcut unoccupied for more important usages.
+        { name = "toggle-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-1", alternative_key_sequence = "" },
+        { name = "open-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-2", alternative_key_sequence = "" }
+    },
 }
 
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then

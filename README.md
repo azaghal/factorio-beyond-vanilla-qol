@@ -174,6 +174,10 @@ Features
 
     > Export and import current quickbar configuration in form of blueprints. Useful for getting the quickbar easily configured at any stage of the game (simply store multiple presets for early/mid/late game and use them as necessary).
 
+-   Remotely toggle and edit constant combinators ([Remote Constant Combinator](https://mods.factorio.com/mod/lo-remote-constant))
+
+    > Makes it possible to toggle a remote constant combinator and update its signals remotely. Helps when having to reconfigure remote outposts (especially when there's that one little tweak/setting you forgot...) or for turning parts of the base on or off.
+
 
 ### Logistics
 

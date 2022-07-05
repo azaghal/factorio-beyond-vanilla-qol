@@ -190,6 +190,10 @@ Features
 
     > Adds a plethora of shortcuts for the shortcut bar (not to be confused with game controls), for toggling and controlling all manners of things. Remotes (artillery/spidertron) are readily available via shortcuts instead of having to craft them. **WARNING:** The mod drops all recipes for remotes in the process.
 
+-   Easily move around/past pipes and tightly-packed machines. ([Squeak Through](https://mods.factorio.com/mod/Squeak%20Through))
+
+    > Makes it easier to move around the base, particularly being able to get past pipes and tightly packed machines - without having to deconstruct them just to get out.
+
 
 ### Logistics
 

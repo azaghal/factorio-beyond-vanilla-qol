@@ -47,6 +47,7 @@
         "RecipeBook >= 3.4.5",
         "resourcehighlighter-dark >= 2.0.6",
         "rotate-vehicles >= 0.0.7",
-        "Shortcuts-ick >= 1.1.27"
+        "Shortcuts-ick >= 1.1.27",
+        "Squeak Through >= 1.8.2"
     ]
 }

@@ -57,6 +57,7 @@
         "Tapeline >= 2.0.8",
         "TaskList >= 0.4.2",
         "tinted-spaceship >= 1.0.2",
+        "TrainGroups >= 1.1.4",
         "VilsClearNightvision >= 1.0.1",
         "YARM >= 0.8.207"
     ]

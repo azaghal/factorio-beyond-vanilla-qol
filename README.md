@@ -166,6 +166,10 @@ Features
 
     > Provides some enhancements with player's use of spidertrons, such as being able to remotely open their inventories, get a temporary spidertron remote using pipette-like behaviour, recall last used spidertron (to follow the player), and use advanced pathfinding that makes the spidertron calculate path around water. Also introduces ability to set-up spidertron patrols, allowing you to spend less time moving spidertron back-and-forth to places where biters frequently damage railroad. **WARNING:** Many features of the two listed mods have been disabled by the modpack to preserve the feel of base game. Remote access to spidertron inventory is currently a bit cheaty since it does not respect player reach for moving items from and into spidertron's inventory. The requirement for additional technology that must be researched to use patrols is remnant of a possible bug in Spidertron Patrols mod (normally spiderlings get unlocked with it as well, but those are disabled for modpack purposes).
 
+- Manage train schedules of all trains on the same line, and easily assign existing schedules to new trains ([Train Groups](https://mods.factorio.com/mod/TrainGroups))
+
+    > Train groups can be created based on existing trains, and new trains can be subsequently easily added to an existing group to assign a specific train schedule. By updating schedule of a single train in a group, all trains within the group receive the same update as well. **WARNING:** Train groups are automatically destroyed if there are no trains left in them.
+
 
 ### Crafting
 

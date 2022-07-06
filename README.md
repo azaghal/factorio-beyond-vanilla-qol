@@ -143,6 +143,10 @@ Features
 
     > Changes the color tone when using nightvision equipment to be the same as during the daylight (no desaturation), making it easier on the eyes - especially when playing during evenings.
 
+-   Spaceship wreck matching player colour ([Tinted Spaceship](https://mods.factorio.com/mod/tinted-spaceship))
+
+    > Match crashed spaceship colour to one of the player itself. Increases chances of not destroying the wreck due to personal attachment...
+
 
 ### Vehicles
 

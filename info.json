@@ -44,6 +44,7 @@
         "QueueToFrontNG >= 0.18.3",
         "QuickItemSearch >= 2.1.4",
         "QuickbarTemplates >= 2.2.0",
+        "QuickSwap >= 0.0.1",
         "RateCalculator >= 2.4.4",
         "RealisticFlashlight >= 0.2.4",
         "RecipeBook >= 3.4.5",

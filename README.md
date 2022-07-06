@@ -38,6 +38,7 @@ Features
     > Unfortunately, default base game controls cannot be changed through a mod, so when using this option it is recommended to make the following manual changes to base game controls as well (shown as primary/alternate control binding pairs):
     >
     > - Basic interaction
+    >     - Shoot selected: `Shift + Spacebar` / `Not set`
     >     - Zoom in: `Mouse wheel up` / `Not set`
     >     - Zoom out: `Mouse wheel down` / `Not set`
 
@@ -214,6 +215,10 @@ Features
 -   Same reach for mining resources by hand (trees/rocks/ores) as for building ([Far Reach](https://mods.factorio.com/mod/far-reach))
 
     > Slightly increased reach for mining resources so it matches with the building/interaction reach. Makes interaction with trees and rocks slightly less annoying, instead of having to remember every single time that you need to get up-and-personal with them.
+
+-   Swap back and forth first five and last five items in quickbar for easier access ([Quick Swap](https://mods.factorio.com/mod/QuickSwap))
+
+    > Swaps the first five аnd last five items in quickbar slots, a bit like vertical cycling of the quickbar. Makes those items in positions 6-10 more easily reachable with standard configuration controls (1 through 10 for picking slot from quickbar). **WARNING:** Default control binding is `C`, making it overlap with vanilla game's binding for shooting selected target. It is advisable to change the binding for *Shoot selected* to `Shift + Spacebar`.
 
 
 ### Logistics

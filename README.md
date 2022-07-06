@@ -211,6 +211,10 @@ Features
 
     > Destroying biter nests one shot at a time is fun the first ten times. Tops. After that it simply becomes a chore. Use dedicated remotes for ordering bombardment of every single biter spawner and worm in an area, or explore an area using coordinated radial shots from multiple artillery pieces.
 
+-   Same reach for mining resources by hand (trees/rocks/ores) as for building ([Far Reach](https://mods.factorio.com/mod/far-reach))
+
+    > Slightly increased reach for mining resources so it matches with the building/interaction reach. Makes interaction with trees and rocks slightly less annoying, instead of having to remember every single time that you need to get up-and-personal with them.
+
 
 ### Logistics
 

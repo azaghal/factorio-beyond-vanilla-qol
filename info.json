@@ -30,6 +30,7 @@
         "extended-descriptions >= 1.0.16",
         "factoryplanner >= 1.1.50",
         "FactorySearch >= 1.8.0",
+        "far-reach >= 1.1.2",
         "FluidWagonColorMask >= 1.1.0",
         "ghost-counter >= 1.1.9",
         "Gun_Turret_Alerts >= 1.1.9",

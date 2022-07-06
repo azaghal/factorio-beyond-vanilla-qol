@@ -60,6 +60,15 @@ local mod_setting_overrides = {
             { name = "fp_default_timescale", type = "string-setting", default = "one_second" }
         }
     },
+    ['far-reach'] = {
+        map = {
+            -- Add bonus only to resource reach so it matches the building reach. Keep others at vanilla values.
+            { name = "far-reach-build-distance-bonus", type="int-setting", default = 0 },
+            { name = "far-reach-reach-distance-bonus", type="int-setting", default = 0 },
+            { name = "far-reach-resource-reach-distance-bonus", type="int-setting", default = 8 },
+            { name = "far-reach-item-drop-distance-bonus", type="int-setting", default = 0 }
+        }
+    },
     ['manual-inventory-sorting'] = {
         player = {
             { name = "manual-inventory-sort-on-open", type = "bool-setting", default = true }

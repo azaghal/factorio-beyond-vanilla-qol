@@ -2,8 +2,64 @@
 Version: 999.999.999
 Date: 99.99.9999.
   Features:
-    - Low ammo alerts for turrets (via Ammo Alerts).
-    - Train/station painting based on transported resources (via Automatic Station Painter, Added Automatic Train Painter, Fluid Wagong Color Mask).
-    - Reverse belt sections via shortcut (via Belt Reverser).
+    - Blueprints
+      - Change circuit signals, station names, filters, colors, and machine recipes in blueprints (via "Blueprint Cloner")
+      - Convert blueprints into signals (using constant combinators) (via "Blueprint Signals (continued)")
+      - Swap wires, set tiles, quick-grid or configure blueprint (via "Blueprint Tools")
+    - Building
+      - Reverse entire belt sections via control binding (via "Belt Reverser")
+      - Force personal bots to build selected ghost entities (via "Bot Prioritizer")
+      - Copy and paste modules alongside crafting machine recipe settings (via "Copy Paste Modules")
+      - Transition to ghost in cursor while building, use pipette for tile selections, cycle between item tiers in cursor (via "Cursor Enhancements")
+      - Use identical reach range for mining resources (trees/rocks/ores) by hand as for building (via "Far Reach")
+      - Keep track of number of ghosts in an area during construction (via "Ghost Counter")
+      - Order module insertion/replacement using selection tool with custom presets (via "Module Inserter")
+    - Combat
+      - Simplified usage of artillery for clearing-out biter nests and map exploration (via "Advanced Artillery Remotes Continued")
+      - Alerts for turrets low on ammo (via "Ammo Alerts")
+    - Controls
+      - [OPTIONAL] Modpack controls configuration
+      - Distribute items evenly across machines (via "Even Distribution")
+      - Export and import quickbars configuration (via "Quickbar Templates")
+      - Swap back and forth first five and last five items in quickbar for easier access (via "Quick Swap")
+      - Remotely toggle and edit constant combinators (via "Remote Constant Combinator")
+      - Wider variety of shortcuts on the shortcut bar (via "Shortcuts for 1.1")
+    - Logistics
+      - Easier item grabbing/temporary requests/auto-trashing (via "Quick Item Search")
+    - Miscellaneous
+      - Enable research queue using console command (via "Enable Research Queue")
+      - Show additional information for items in info screens, like stack sizes etc. (via "Extended Descriptions")
+      - Sort opened inventories  (via "Manual Inventory Sorting")
+      - Per-savegame milestones (via "Milestones")
+      - Easily move around/past pipes and tightly-packed machines (via "Squeak Through")
+    - Planning
+      - Plan the base using blueprints and delay their construction (via "Construction Planner")
+      - Prepare and test blueprints in editor environment, within the confines of the existing save-game (via "Editor Extensions")
+      - Calculate ingredient and machine requirements for production quotas (via "Factory Planner")
+      - Calculate input/output rates for selected crafting machines (via "Rate Calculator")
+      - Browse and drill down through item recipes (via "Recipe Book")
+      - Highlight resources on the map view (via "Resource Highlighter (Dark's Version)")
+      - Measure out distances and align entities using a tapeline (via "Tapeline")
+      - Plan future work by creating tasks that can be assigned and completed (similar to a to-do list) (via "Task List")
+      - Monitor raw resource patch consumption and depletion (via "YARM - Resource Monitor")
+    - Production
+      - Craft items from cursor (via "Crafting Tools")
+      - Show bottleneck/crafting indicators (output full, ingredient shortage) for each crafting machine (via "Bottleneck Lite")
+      - Search entire factory to find out where an item is stored, produced, built, used as a signal etc. (via "Factory Search")
+      - Visualise the layout and fluids in pipe networks (via "Pipe Visualizer")
+      - Queue item crafting to the beginning or the end of the crafting queue (via "Queue To Front")
+    - Vehicles
+      - Automated painting of trains/stations based on transported/delivered ingredients (via "Automatic Station Painter", "Automatic Train Painter", "Fluid Wagon Color Mask")
+      - Locate vehicle (via "Car/Tank/Spidertron Locator Button")
+      - Driver assistance system and cruise control (via "Pavement Drive Assist Continued")
+      - Rotate direction the vehicles are facing using the standard controls (via "Rotate Vehicles")
+      - Enhanced control and use of spidertrons with better pathfinding and automated patrols (via "Spidertron Enhancements", "Spidetron Patrols")
+    - Visuals
+      - Better looking alert arrows (via "Better Alert Arrows")
+      - Match entity planner indicators (upgrade/deconstruct/blueprint) with planner outline colours (via "Color-Coded Planners")
+      - Lamps turn on earlier in the evening and turn off later in the morning (via "Configurable Lamp Times")
+      - Realistic-looking flashlight and vehicle light cones (via "Realistic Flashlight")
+      - Spaceship wreck matching player colour (via "Tinted Spaceship")
+      - Warmer color tone when using nightvision equipment (via "Vil's Clear Nightvision")
   Changes:
   Bugfixes:

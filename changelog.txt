@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 99.99.9999.
+Version: 1.0.0
+Date: 2022-07-07
   Features:
     - Blueprints
       - Change circuit signals, station names, filters, colors, and machine recipes in blueprints (via "Blueprint Cloner")
@@ -61,5 +61,3 @@ Date: 99.99.9999.
       - Realistic-looking flashlight and vehicle light cones (via "Realistic Flashlight")
       - Spaceship wreck matching player colour (via "Tinted Spaceship")
       - Warmer color tone when using nightvision equipment (via "Vil's Clear Nightvision")
-  Changes:
-  Bugfixes:

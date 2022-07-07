@@ -111,11 +111,11 @@ Features
     >     - Focus search: `Control + F` / `/` (slash is a common mnemonic used by unix utilities)
     >     - Larger tile building area: `Alt + Mouse wheel up` / `Not set` (take full advantage of that mouse wheel)
     >     - Smaller tile building area: `Alt + Mouse wheel down` / `Not set` (take full advantage of that mouse wheel)
-    >     - Select quickbar 6: `Shift + 6` / `Shift + Alt + 6` (less hand movement for switching to higher-number quickbars)
-    >     - Select quickbar 7: `Shift + 7` / `Shift + Alt + 7` (less hand movement for switching to higher-number quickbars)
-    >     - Select quickbar 8: `Shift + 8` / `Shift + Alt + 8` (less hand movement for switching to higher-number quickbars)
-    >     - Select quickbar 9: `Shift + 9` / `Shift + Alt + 9` (less hand movement for switching to higher-number quickbars)
-    >     - Select quickbar 10: `Shift + 0` / `Shift + Alt + 0` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 6: `6` / `Shift + Alt + 6` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 7: `7` / `Shift + Alt + 7` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 8: `8` / `Shift + Alt + 8` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 9: `9` / `Shift + Alt + 9` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 10: `0` / `Shift + Alt + 0` (less hand movement for switching to higher-number quickbars)
 
 -   Distribute items evenly across machines ([Even Distribution](https://mods.factorio.com/mod/even-distribution))
 

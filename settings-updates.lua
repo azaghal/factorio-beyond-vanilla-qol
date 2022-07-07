@@ -130,6 +130,8 @@ for mod, scope_settings in pairs(mod_setting_overrides) do
         for _, setting in ipairs(settings) do
             if data.raw[setting.type][setting.name] then
                 data.raw[setting.type][setting.name].default_value = setting.default
+            else
+                print("[ERROR] (beyond-vanilla-qol) Unknown setting, skipping: " .. setting.type .. "/" .. mod .. "/" .. setting.name)
             end
         end
     end

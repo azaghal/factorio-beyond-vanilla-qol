@@ -125,9 +125,12 @@ local control_overrides = {
 if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then
     for mod, controls in pairs(control_overrides) do
         for _, control in ipairs(controls) do
-            print(control.name)
-            data.raw["custom-input"][control.name].key_sequence = control.key_sequence
-            data.raw["custom-input"][control.name].alternative_key_sequence = control.alternative_key_sequence
+            if data.raw["custom-input"][control.name] then
+                data.raw["custom-input"][control.name].key_sequence = control.key_sequence
+                data.raw["custom-input"][control.name].alternative_key_sequence = control.alternative_key_sequence
+            else
+                print("[ERROR] (beyond-vanilla-qol) Unknown control, skipping: " .. mod .. "/" .. control.name)
+            end
         end
     end
 end

@@ -48,13 +48,14 @@ Features
 
 ### Building
 
--   Use identical reach range for mining resources (trees/rocks/ores) by hand as for building ([Far Reach](https://mods.factorio.com/mod/far-reach))
-
-    > Slightly increased reach for mining resources so it matches with the building/interaction reach. Makes interaction with trees and rocks slightly less annoying, instead of having to remember every single time that you need to get up-and-personal with them.
-
 -   Reverse entire belt sections via control binding ([Belt Reverser](https://mods.factorio.com/mod/belt-reverserup))
 
     > Lets you reverse entire belt sections with a single control binding.
+
+-   Force personal bots to build selected ghost entities ([Bot Prioritizer](https://mods.factorio.com/mod/BotPrioritizer))
+
+    > Make your own personal bots build selected ghost entities, instead of waiting for the roboport bots to reach the spot across the map.
+    > **WARNING:** Unfortunately, prioritised work cannot be undone (using the default `CONTROL + Z` control). Keep that in mind when using this functionality, otherwise you may end-up undoing wrong parts of factory.
 
 -   Copy and paste modules alongside crafting machine recipe settings ([Copy Paste Modules]( https://mods.factorio.com/mod/CopyPasteModules))
 
@@ -64,10 +65,9 @@ Features
 
     > When build-dragging, if you run out of an item, the cursor automatically switches to ghost, instead of throwing an error. The pipette can be used for picking a tile - simply press (the default control) `Q` while hovering over stone path/landfill etc to get the tile item into cursor. Finally, use (default control) `Shift + Mouse Wheel Up/Down` to cycle between different tiers of the item held in the cursor. This is useful for seamlessly switching between different tiers of belts, undergrounds, or even assemblers and tiles.
 
--   Force personal bots to build selected ghost entities ([Bot Prioritizer](https://mods.factorio.com/mod/BotPrioritizer))
+-   Use identical reach range for mining resources (trees/rocks/ores) by hand as for building ([Far Reach](https://mods.factorio.com/mod/far-reach))
 
-    > Make your own personal bots build selected ghost entities, instead of waiting for the roboport bots to reach the spot across the map.
-    > **WARNING:** Unfortunately, prioritised work cannot be undone (using the default `CONTROL + Z` control). Keep that in mind when using this functionality, otherwise you may end-up undoing wrong parts of factory.
+    > Slightly increased reach for mining resources so it matches with the building/interaction reach. Makes interaction with trees and rocks slightly less annoying, instead of having to remember every single time that you need to get up-and-personal with them.
 
 -   Keep track of number of ghosts in an area during construction ([Ghost Counter](https://mods.factorio.com/mod/ghost-counter))
 
@@ -80,13 +80,13 @@ Features
 
 ### Combat
 
--   Alerts for turrets low on ammo ([Ammo Alerts](https://mods.factorio.com/mod/Gun_Turret_Alerts))
-
-    > Show map alerts for turrets low on ammo (5 magazines by default). Useful for early game defenses and detecting issues with ammo delivery systems.
-
 -   Simplified usage of artillery for clearing-out biter nests and map exploration ([Advanced Artillery Remotes Continued](https://mods.factorio.com/mod/AdvancedArtilleryRemotesContinued))
 
     > Destroying biter nests one shot at a time is fun the first ten times. Tops. After that it simply becomes a chore. Use dedicated remotes for ordering bombardment of every single biter spawner and worm in an area, or explore an area using coordinated radial shots from multiple artillery pieces.
+
+-   Alerts for turrets low on ammo ([Ammo Alerts](https://mods.factorio.com/mod/Gun_Turret_Alerts))
+
+    > Show map alerts for turrets low on ammo (5 magazines by default). Useful for early game defenses and detecting issues with ammo delivery systems.
 
 
 ### Controls
@@ -102,6 +102,18 @@ Features
     >     - Zoom in: `Mouse wheel up` / `Not set`
     >     - Zoom out: `Mouse wheel down` / `Not set`
 
+-   Distribute items evenly across machines ([Even Distribution](https://mods.factorio.com/mod/even-distribution))
+
+    > When filling-up entities using the "`CONTROL + Left Mouse Click` dragging" mechanics, distribute items across them evenly. It is also possible to configure how the distribution should work - spread out new items evenly, or try to even-out the inventories, limit fuel/ammo quantity added to machine etc. Make sure to check the mod settings hidden behind a button attached to player inventory screen.
+
+-   Export and import quickbars configuration ([Quickbar Templates](https://mods.factorio.com/mod/QuickbarTemplates))
+
+    > Export and import current quickbar configuration in form of blueprints. Useful for getting the quickbar easily configured at any stage of the game (simply store multiple presets for early/mid/late game and use them as necessary).
+
+-   Swap back and forth first five and last five items in quickbar for easier access ([Quick Swap](https://mods.factorio.com/mod/QuickSwap))
+
+    > Swaps the first five аnd last five items in quickbar slots, a bit like vertical cycling of the quickbar. Makes those items in positions 6-10 more easily reachable with standard configuration controls (1 through 10 for picking slot from quickbar). **WARNING:** Default control binding is `C`, making it overlap with vanilla game's binding for shooting selected target. It is advisable to change the binding for *Shoot selected* to `Shift + Spacebar`.
+
 -   Remotely toggle and edit constant combinators ([Remote Constant Combinator](https://mods.factorio.com/mod/lo-remote-constant))
 
     > Makes it possible to toggle a remote constant combinator and update its signals remotely. Helps when having to reconfigure remote outposts (especially when there's that one little tweak/setting you forgot...) or for easily turning parts of the base on or off.
@@ -110,17 +122,12 @@ Features
 
     > Adds a plethora of shortcuts for the shortcut bar (not to be confused with game controls), for toggling and controlling all manners of things. Remotes (artillery/spidertron) are readily available via shortcuts instead of having to craft them. **WARNING:** The mod drops all recipes for artillery remotes in the process.
 
--   Swap back and forth first five and last five items in quickbar for easier access ([Quick Swap](https://mods.factorio.com/mod/QuickSwap))
 
-    > Swaps the first five аnd last five items in quickbar slots, a bit like vertical cycling of the quickbar. Makes those items in positions 6-10 more easily reachable with standard configuration controls (1 through 10 for picking slot from quickbar). **WARNING:** Default control binding is `C`, making it overlap with vanilla game's binding for shooting selected target. It is advisable to change the binding for *Shoot selected* to `Shift + Spacebar`.
+### Logistics
 
--   Export and import quickbars configuration ([Quickbar Templates](https://mods.factorio.com/mod/QuickbarTemplates))
+-   Easier item grabbing/temporary requests/auto-trashing ([Quick Item Search](https://mods.factorio.com/mod/QuickItemSearch))
 
-    > Export and import current quickbar configuration in form of blueprints. Useful for getting the quickbar easily configured at any stage of the game (simply store multiple presets for early/mid/late game and use them as necessary).
-
--   Distribute items evenly across machines ([Even Distribution](https://mods.factorio.com/mod/even-distribution))
-
-    > When filling-up entities using the "`CONTROL + Left Mouse Click` dragging" mechanics, distribute items across them evenly. It is also possible to configure how the distribution should work - spread out new items evenly, or try to even-out the inventories, limit fuel/ammo quantity added to machine etc. Make sure to check the mod settings hidden behind a button attached to player inventory screen.
+    > Use text-based search for getting an item (or its ghost) into cursor, set temporary or permanent personal logistic requests for getting the items, and auto-trash excess items from the inventory (trash everything above minimum values configured in personal logistics requests). For those times when you need an odd item or two that's not readily available in your quickbar. Use the default `CONTROL + F` control to show the item search window. **WARNING:** Current version of the mod contains a bug that makes the auto-trashing and temporary requests work a bit unreliable, and mess up your personal logistics requests set-up.
 
 
 ### Miscellaneous
@@ -128,6 +135,10 @@ Features
 -   Enable research queue using console command ([Enable Research Queue](https://mods.factorio.com/mod/EnableResearchQueue))
 
     > For those times when you forgot to enable research queue during game creation. Simply run the `/enableresearchqueue` in console.
+
+-   Show additional information for items in info screens, like stack sizes etc. ([Extended Descriptions](https://mods.factorio.com/mod/extended-descriptions))
+
+    > Lets you see more information about items in the info screen when you hover over them. Particularly useful to see stack sizes when setting-up conditions in combinators.
 
 -   Sort opened inventories  ([Manual Inventory Sorting](https://mods.factorio.com/mod/manual-inventory-sort))
 
@@ -140,10 +151,6 @@ Features
 -   Easily move around/past pipes and tightly-packed machines ([Squeak Through](https://mods.factorio.com/mod/Squeak%20Through))
 
     > Makes it easier to move around the base, particularly being able to get past pipes and tightly packed machines - without having to deconstruct them just to get out.
-
--   Show additional information for items in info screens, like stack sizes etc. ([Extended Descriptions](https://mods.factorio.com/mod/extended-descriptions))
-
-    > Lets you see more information about items in the info screen when you hover over them. Particularly useful to see stack sizes when setting-up conditions in combinators.
 
 
 ### Planning
@@ -168,6 +175,10 @@ Features
 
     > Conveniently search and look at various recipes, machine requirements and anything else crafting-related (even seeing what technologies are needed to craft an item/use a recipe).
 
+-   Highlight resources on the map view ([Resource Highlighter (Dark's Version)](https://mods.factorio.com/mod/resourcehighlighter-dark))
+
+    > Easily highlight specific resources on the map view and show their sizes. Helps with sometimes bad contrast between the background and a resource in the map view.
+
 -   Measure out distances and align entities using a tapeline ([Tapeline](https://mods.factorio.com/mod/Tapeline))
 
     > Use tapelines to measure distances between entities, roads, main bus lanes... Place sticky tapelines (can be easily removed) for use as reminder where a belt or entity should end-up at. **WARNING:** Unfortunately, due to some modding API limitations and specifics on how both mods are implemented, the *Construction Planner* and *Tapeline* mod have some bad interactions - when dragging with a tapeline across unapproved entities, they will get approved by mistake. Placing "permanent" tapelines (using `SHIFT` while dragging) when auto-approval mode is disabled will also result in placeholder (bogus) ghosts getting placed. You may want to set-up some form of deconstructor for such placeholder ghost entities.
@@ -175,10 +186,6 @@ Features
 -   Plan future work by creating tasks that can be assigned and completed (similar to a to-do list) ([Task List](https://mods.factorio.com/mod/TaskList))
 
     > Create task items for planning out the work on the base. Noticed an issue in some part of factory? Create a task instead of trying to remember it all.
-
--   Highlight resources on the map view ([Resource Highlighter (Dark's Version)](https://mods.factorio.com/mod/resourcehighlighter-dark))
-
-    > Easily highlight specific resources on the map view and show their sizes. Helps with sometimes bad contrast between the background and a resource in the map view.
 
 -   Monitor raw resource patch consumption and depletion ([YARM - Resource Monitor](https://mods.factorio.com/mod/YARM))
 
@@ -190,10 +197,6 @@ Features
 -   Craft items from cursor ([Crafting Tools](https://mods.factorio.com/mod/Kux-CraftingTools))
 
     > Craft items that are currently held in the hand. Speeds-up early game base set-up - less clicking in the inventory screen to craft that one more missing inserter.
-
--   Queue item crafting to the beginning or the end of the crafting queue ([Queue To Front](https://mods.factorio.com/mod/QueueToFrontNG))
-
-    > Toggle (with `ALT + Q` by default) whether the items crafted from inventory will be added to the beginning or the end of the crafting queue. Helpful for those cases where you don't want to cancel the whole crafting queue just to produce that one item you really need right now.
 
 -   Show bottleneck/crafting indicators (output full, ingredient shortage) for each crafting machine ([Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite))
 
@@ -207,12 +210,9 @@ Features
 
     > Show pipe network in form of color-coded network that spans across underground pipes as well. Greatly helps with troubleshooting complex layouts of piping.
 
+-   Queue item crafting to the beginning or the end of the crafting queue ([Queue To Front](https://mods.factorio.com/mod/QueueToFrontNG))
 
-### Logistics
-
--   Easier item grabbing/temporary requests/auto-trashing ([Quick Item Search](https://mods.factorio.com/mod/QuickItemSearch))
-
-    > Use text-based search for getting an item (or its ghost) into cursor, set temporary or permanent personal logistic requests for getting the items, and auto-trash excess items from the inventory (trash everything above minimum values configured in personal logistics requests). For those times when you need an odd item or two that's not readily available in your quickbar. Use the default `CONTROL + F` control to show the item search window. **WARNING:** Current version of the mod contains a bug that makes the auto-trashing and temporary requests work a bit unreliable, and mess up your personal logistics requests set-up.
+    > Toggle (with `ALT + Q` by default) whether the items crafted from inventory will be added to the beginning or the end of the crafting queue. Helpful for those cases where you don't want to cancel the whole crafting queue just to produce that one item you really need right now.
 
 
 ### Vehicles
@@ -260,13 +260,13 @@ Features
 
     > Light cones from flashlight and vehicles look more natural, with soft edges.
 
--   Warmer color tone when using nightvision equipment ([Vil's Clear Nightvision](https://mods.factorio.com/mod/VilsClearNightvision))
-
-    > Changes the color tone when using nightvision equipment to be the same as during the daylight (no desaturation), making it easier on the eyes - especially when playing during evenings.
-
 -   Spaceship wreck matching player colour ([Tinted Spaceship](https://mods.factorio.com/mod/tinted-spaceship))
 
     > Match crashed spaceship colour player's own. Increases emotional attachment to the shipwreck.
+
+-   Warmer color tone when using nightvision equipment ([Vil's Clear Nightvision](https://mods.factorio.com/mod/VilsClearNightvision))
+
+    > Changes the color tone when using nightvision equipment to be the same as during the daylight (no desaturation), making it easier on the eyes - especially when playing during evenings.
 
 
 Contributions

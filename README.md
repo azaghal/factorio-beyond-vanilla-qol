@@ -116,6 +116,8 @@ Features
     >     - Select quickbar 8: `8` / `Shift + Alt + 8` (less hand movement for switching to higher-number quickbars)
     >     - Select quickbar 9: `9` / `Shift + Alt + 9` (less hand movement for switching to higher-number quickbars)
     >     - Select quickbar 10: `0` / `Shift + Alt + 0` (less hand movement for switching to higher-number quickbars)
+    > - Miscellaneous
+    >     - Pause game: `Not set` / `Pause` (avoid conflict with "Shoot selected")
 
 -   Distribute items evenly across machines ([Even Distribution](https://mods.factorio.com/mod/even-distribution))
 

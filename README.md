@@ -98,9 +98,24 @@ Features
     > Unfortunately, default base game controls cannot be changed through a mod, so when using this option it is recommended to make the following manual changes to base game controls as well (list is shown with primary and alternate control bindings):
     >
     > - Basic interaction
-    >     - Shoot selected: `Shift + Spacebar` / `Not set`
-    >     - Zoom in: `Mouse wheel up` / `Not set`
-    >     - Zoom out: `Mouse wheel down` / `Not set`
+    >     - Open character screen: `E` / `Not set` (keep that extra mouse button for other actions)
+    >     - Confirm window: `E` / `Not set` (keep that extra mouse button for other actions)
+    >     - Clear cursor: `Q` / `Not set` (keep that extra mouse button for other actions)
+    >     - Pipette tool: `Q` / `Not set` (keep that extra mouse button for other actions)
+    >     - Flip blueprint horizontal: `Shift + Z` / `Not set` (flip around "Z" axis)
+    >     - Flip blueprint vertical: `Shift + X` / `Not set` (flip around "X" axis)
+    >     - Shoot selected: `Shift + Spacebar` / `Not set` (free up convenient binding for vertical swapping of quickbar shortcuts)
+    >     - Zoom in: `Mouse wheel up` / `Not set` (free up shift + mouse wheel for use with toggling between item tiers)
+    >     - Zoom out: `Mouse wheel down` / `Not set` (free up shift + mouse wheel for use with toggling between item tiers)
+    > - Advanced interaction
+    >     - Focus search: `Control + F` / `/` (slash is a common mnemonic used by unix utilities)
+    >     - Larger tile building area: `Alt + Mouse wheel up` / `Not set` (take full advantage of that mouse wheel)
+    >     - Smaller tile building area: `Alt + Mouse wheel down` / `Not set` (take full advantage of that mouse wheel)
+    >     - Select quickbar 6: `Shift + 6` / `Shift + Alt + 6` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 7: `Shift + 7` / `Shift + Alt + 7` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 8: `Shift + 8` / `Shift + Alt + 8` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 9: `Shift + 9` / `Shift + Alt + 9` (less hand movement for switching to higher-number quickbars)
+    >     - Select quickbar 10: `Shift + 0` / `Shift + Alt + 0` (less hand movement for switching to higher-number quickbars)
 
 -   Distribute items evenly across machines ([Even Distribution](https://mods.factorio.com/mod/even-distribution))
 

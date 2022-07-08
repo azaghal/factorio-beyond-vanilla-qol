@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
+Version: 1.0.1
+Date: 2022-07-08
   Features:
   Changes:
     - Cleanup range for Even Distribution mod has been limited to default character reach through map settings (make sure to reset the mod setting if necessary).

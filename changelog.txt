@@ -1,11 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 999.999.999
+Date: 9999-99-99
+  Features:
+  Changes:
+  Bugfixes:
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2022-07-08
-  Features:
   Changes:
     - Cleanup range for Even Distribution mod has been limited to default character reach through map settings (make sure to reset the mod setting if necessary).
     - Auto-approvals for Construction Planner mod are now enabled when starting the game. It might be a bit less confusing for the player to start in vanilla-default state.
-  Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2022-07-07

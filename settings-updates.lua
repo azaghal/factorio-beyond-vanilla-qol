@@ -54,6 +54,12 @@ local mod_setting_overrides = {
             { name = "ee-testing-lab", type = "string-setting", default = "shared" }
         }
     },
+    ['even-distribute'] = {
+        map = {
+            -- Reduce maximum allowed cleanup range to match with default character's reach.
+            { name = "global-max-inventory-cleanup-range", type = "int-setting", default = 10 },
+        }
+    },
     ['factoryplanner'] = {
         player = {
             -- Set default timescale unit to be one second. Easier for players to grasp, particularly since many things like belts etc show speeds per second .

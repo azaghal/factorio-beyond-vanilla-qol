@@ -87,15 +87,11 @@ local mod_setting_overrides = {
         }
     },
     ['PavementDriveAssistContinued'] = {
-        map = {
-            -- @TODO: There is a bug in PavementDriveAssistContinued that prevents this from working as expected - shortcut icons are not shown,
-            --        and one dangling technology for signs is preserved.
+        startup = {
             -- Disable technology requirement to allow mod usage without affecting vanilla game technology tree.
-            -- { name = "PDA-setting-tech-required", type = "bool-setting", default = false }
-        },
-        player = {
-            -- Disable outputing driving assistant status to console. There a shortcut bar button for showing this.
-            { name = "PDA-setting-verbose", type = "bool-setting", default = false }
+            { name = "PDA-setting-tech-required", type = "bool-setting", default = false },
+            -- Disable smart roads technology since it introduces additional entities.
+            { name = "PDA-setting-smart-roads-enabled", type = "bool-setting", default = false }
         }
     },
     ['QuickItemSearch'] = {

@@ -1,9 +1,11 @@
 ---------------------------------------------------------------------------------------------------
 Version: 999.999.999
 Date: 9999-99-99
-  Features:
   Changes:
-  Bugfixes:
+    - Bumped Pavement Drive Assist Continued mod version requirement.
+    - Driving assistant and cruise control (from Pavement Drive Assist Continued) no longer require technology to be researched.
+    - Disabld smart roads (from Pavement Drive Assist Continued).
+    - Enable toggle notifications for cruise control and driving assistant (from Pavement Drive Assist Continued). New version makes them slightly less annoying sound-wise.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2022-07-08

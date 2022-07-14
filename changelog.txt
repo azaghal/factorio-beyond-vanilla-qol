@@ -6,6 +6,9 @@ Date: 9999-99-99
     - Driving assistant and cruise control (from Pavement Drive Assist Continued) no longer require technology to be researched.
     - Disabld smart roads (from Pavement Drive Assist Continued).
     - Enable toggle notifications for cruise control and driving assistant (from Pavement Drive Assist Continued). New version makes them slightly less annoying sound-wise.
+  Features:
+    - Vehicles
+      - Personal shuttle trains (via "Shuttle Train Refresh")
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2022-07-08

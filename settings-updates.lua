@@ -124,6 +124,25 @@ local mod_setting_overrides = {
             { name = "spidertron-enhancements-pipette-temporary-remote", type = "bool-setting", default = true }
         }
     },
+    ['ShuttleTrainRefresh'] = {
+        map = {
+            -- Set name of depot station to something that denotes the main train station for players.
+            { name = "shuttle-train-global-depot", type = "string-setting", default = "Main - Personal" },
+            -- Treat all stations that contain string "personal" as valid destinations for shuttle trains.
+            { name = "shuttle-train-global-exclude", type = "string-setting", default = "personal" },
+            { name = "shuttle-train-global-exclude-invert", type = "bool-setting", default = true },
+            -- Ignore trains that are in manual mode when searching for a shuttle train.
+            { name = "shuttle-train-global-ignore-manual-trains", type = "bool-setting", default = true }
+        },
+        player = {
+            -- Focus the earch text box when opening station selection menu.
+            { name = "shuttle-train-focus-search", type = "bool-setting", default = true },
+            -- Activate top-of-the-list stations as destination for shuttle train when typing dot in the search box.
+            { name = "shuttle-train-dot-to-go", type = "bool-setting", default = true },
+            -- Use smarter destination planning when setting it by hand.
+            { name = "shuttle-train-smart-manual-destinations", type = "bool-setting", default = true }
+        }
+    },
     ['SpidertronPatrols'] = {
         startup = {
             -- Disable spiderling and dock since they add new recipes and mechanics to vanilla game.

@@ -127,7 +127,7 @@ Features
 
     > Export and import current quickbar configuration in form of blueprints. Useful for getting the quickbar easily configured at any stage of the game (simply store multiple presets for early/mid/late game and use them as necessary).
 
--   Swap back and forth first five and last five items in quickbar for easier access ([Quick Swap](https://mods.factorio.com/mod/QuickSwap))
+-   Swap back and forth first five and last five items in quickbar for easier access ([Quickbar Vertical Swap](https://mods.factorio.com/mod/quickbar-vertical-swap))
 
     > Swaps the first five аnd last five items in quickbar slots, a bit like vertical cycling of the quickbar. Makes those items in positions 6-10 more easily reachable with standard configuration controls (1 through 10 for picking slot from quickbar). **WARNING:** Default control binding is `C`, making it overlap with vanilla game's binding for shooting selected target. It is advisable to change the binding for *Shoot selected* to `Shift + Spacebar`.
 
@@ -172,7 +172,7 @@ Features
 
 ### Planning
 
--   Plan the base using blueprints and delay their construction ([Construction Planner](https://mods.factorio.com/mod/ConstructionPlanner))
+-   Plan the base using blueprints and delay their construction ([Construction Planner Continued](https://mods.factorio.com/mod/ConstructionPlannerContinued))
 
     > Trigger bot construction of blueprints when ready by using approvals. Blueprint auto-approvals can be toggled as needed. Use selection tool to approve/unapprove blueprints.
 
@@ -198,7 +198,7 @@ Features
 
 -   Measure out distances and align entities using a tapeline ([Tapeline](https://mods.factorio.com/mod/Tapeline))
 
-    > Use tapelines to measure distances between entities, roads, main bus lanes... Place sticky tapelines (can be easily removed) for use as reminder where a belt or entity should end-up at. **WARNING:** Unfortunately, due to some modding API limitations and specifics on how both mods are implemented, the *Construction Planner* and *Tapeline* mod have some bad interactions - when dragging with a tapeline across unapproved entities, they will get approved by mistake. Placing "permanent" tapelines (using `SHIFT` while dragging) when auto-approval mode is disabled will also result in placeholder (bogus) ghosts getting placed. You may want to set-up some form of deconstructor for such placeholder ghost entities.
+    > Use tapelines to measure distances between entities, roads, main bus lanes... Place sticky tapelines (can be easily removed) for use as reminder where a belt or entity should end-up at.
 
 -   Plan future work by creating tasks that can be assigned and completed (similar to a to-do list) ([Task List](https://mods.factorio.com/mod/TaskList))
 

@@ -39,7 +39,7 @@ local mod_setting_overrides = {
             { name = "config-lamp-times-brightness-end-1", type = "double-setting", default = 0.8 }
         }
     },
-    ['ConstructionPlanner'] = {
+    ['ConstructionPlannerContinued'] = {
         player = {
             -- Enable auto-approvals at start of the game to avoid initially confusing the player.
             { name = "constructionPlanner-auto-approve", type = "bool-setting", default = true }

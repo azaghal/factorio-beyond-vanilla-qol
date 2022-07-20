@@ -118,7 +118,7 @@ local control_overrides = {
         { name = "spidertron-enhancements-spidertron-pipette", key_sequence = "SHIFT + ALT + Q", alternative_key_sequence = "" },
         -- Default key sequence "ALT + Left Mouse Click" conflicts with most GNU/Linux desktop environments shortcut for moving the windows around.
         { name = "spidertron-enhancements-use-alt-spidertron-remote", key_sequence = "SHIFT + mouse-button-1", alternative_key_sequence = "" },
-        -- Pick a better mnemonic for recalling the spidertron ('S' for spider), and avoid collision with Construction Planner key sequence.
+        -- Pick a better mnemonic for recalling the spidertron ('S' for spider), and avoid collision with Construction Planner Continued key sequence.
         { name = "spidertron-enhancements-recall-shortcut", key_sequence = "ALT + S", alternative_key_sequence = "" }
     },
     ['Tapeline'] = {

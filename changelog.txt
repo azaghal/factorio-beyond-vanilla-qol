@@ -1,11 +1,9 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
+Version: 1.2.0
+Date: 2022-07-20
   Changes:
     - Replaced "Construction Planner" with "Construction Planner Continued" mod. Although it should be a drop-in replacement, make sure to backup the savegame before updating the modpack.
     - Replaced "Quick Swap" with "Quickbar Vertical Swap" mod. Provides more features, and preserves blueprints on the quickbar (by default).
-  Features:
-  Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2022-07-15

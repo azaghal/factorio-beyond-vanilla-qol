@@ -9,6 +9,7 @@ Date: 9999-99-99
     - Show unfulfilled requests in the current logistic network (via "What's Missing?")
     - Rename locomotives, labs, roboports, and radars (via "Renamer")
     - Pick-up leftover items alongside inserters (via "Pick It Up")
+    - Automatically fill buildings and vehicles with fuel when placing them down (via "Fill4Me")
   Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0

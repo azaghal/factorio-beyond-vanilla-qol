@@ -161,6 +161,10 @@ Features
 
     > Lets you see more information about items in the info screen when you hover over them. Particularly useful to see stack sizes when setting-up conditions in combinators.
 
+-   Automatically fill buildings and vehicles with fuel when placing them down ([Fill4Me](https://mods.factorio.com/mod/Fill4Me))
+
+    > Place down furnaces, burner mining drills, or vehicles and automatically insert fuel into them from personal inventory. Useful for early-game burner city, "pocket vehicles" (when your main vehicle has been left far behind), and trains. Feature can be toggled on/off using control binding or a shortcut button. **NOTE:** Modpack effectively disables auto-fill function for ammunition for balancing purposes. Wood and nuclear fuel/cells are excluded for auto-insertion by default.
+
 -   Sort opened inventories  ([Manual Inventory Sorting](https://mods.factorio.com/mod/manual-inventory-sort))
 
     > Sorts inventories opened by player (chests, wagons etc). Helps when looking for particular items in cluttered personal train wagons.

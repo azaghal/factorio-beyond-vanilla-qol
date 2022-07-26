@@ -93,6 +93,16 @@ local mod_setting_overrides = {
             { name = "far-reach-item-drop-distance-bonus", type="int-setting", default = 0 }
         }
     },
+    ['Fill4Me'] = {
+        map = {
+            -- Set maximum ammo value to very low value to prevent Fill4Me from filling-up turrets with ammo. Meant for preventing turret spam as biter-fighting tactic.
+            { name = "fill4me-maximum-ammo-value", type = "int-setting", default = 1 },
+        },
+        player = {
+            -- Wood is useful early game for poles and chests, and nuclear fuel/uranium fuel cell are high-value items.
+            { name = "fill4me-blacklist-fuel", type = "string-setting", default = "wood,nuclear-fuel,uranium-fuel-cell" },
+        }
+    },
     ['manual-inventory-sorting'] = {
         player = {
             { name = "manual-inventory-sort-on-open", type = "bool-setting", default = true }

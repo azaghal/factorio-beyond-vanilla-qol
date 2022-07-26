@@ -289,6 +289,10 @@ Features
 
     > Light cones from flashlight and vehicles look more natural, with soft edges.
 
+-   Thicker power cables and logic wires([Thicker Power Wires](https://mods.factorio.com/mod/ThickerLines))
+
+    > Improves visibility of power cables and logic wires. Less squinting when figuring out cable and wire connections. **NOTE:** Should you find the new visuals annoying, simply head over to startup settings and have a look at *Thicker Power Wires* mod settings to disable the feature for power cables, logic wires, or both.
+
 -   Spaceship wreck matching player colour ([Tinted Spaceship](https://mods.factorio.com/mod/tinted-spaceship))
 
     > Match crashed spaceship colour player's own. Increases emotional attachment to the shipwreck.

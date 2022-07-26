@@ -60,7 +60,7 @@ local mod_setting_overrides = {
             { name = "ee-testing-lab", type = "string-setting", default = "shared" }
         }
     },
-    ['even-distribute'] = {
+    ['even-distribution'] = {
         map = {
             -- Reduce maximum allowed cleanup range to match with default character's reach.
             { name = "global-max-inventory-cleanup-range", type = "int-setting", default = 10 },

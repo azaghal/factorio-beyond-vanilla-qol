@@ -1,7 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
-  Changes:
+Version: 1.3.0
+Date: 2022-07-26
   Features:
     - Improved visibility for power switch and train stop status light indicators (via "Big Light")
     - Quicker map tagging using right-click (via "Quick Map Tag")
@@ -10,7 +9,6 @@ Date: 9999-99-99
     - Rename locomotives, labs, roboports, and radars (via "Renamer")
     - Pick-up leftover items alongside inserters (via "Pick It Up")
     - Automatically fill buildings and vehicles with fuel when placing them down (via "Fill4Me")
-  Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
 Date: 2022-07-20

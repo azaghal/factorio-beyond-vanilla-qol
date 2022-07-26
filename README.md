@@ -269,6 +269,10 @@ Features
 
     > Nicer looking alert arrows. A purely visual change.
 
+-   Improved visibility for power switch and train stop status light indicators ([Big Light](https://mods.factorio.com/mod/BigLight))
+
+    > Show larger status lights for train stops and power switches, and make default train stop lights green instead of yellow. Makes it easier to figure out if a station/power switch is enabled or disabled when looking at it (instead of squinting or hovering over the entity).
+
 -   Match entity planner indicators (upgrade/deconstruct/blueprint) with planner outline colours ([Color-Coded Planners](https://mods.factorio.com/mod/ColorCodedPlanners))
 
     > Use same outline/indicator colours for selected entities as the planner selection tool colour. Makes it easier to spot what actions will be taken on the entity.

@@ -11,6 +11,18 @@ local mod_setting_overrides = {
             { name = "aar-cluster-mode", type = "string-setting", default = "spawner-and-worms" }
         }
     },
+    ['BigLight'] = {
+        startup = {
+            -- Set a smallest possible light size for the miners - we already get indicators via Bottleneck Lite.
+            { name = "ritnmods-bl-01", type = "int-setting", default = 1 },
+            -- Use green light for enabled train stops instead of default game's yellow. Better consistency (green - on, red - off).
+            { name = "ritnmods-bl-02", type = "bool-setting", default = true },
+            -- Set train stop light size to something just a bit above vanilla size.
+            { name = "ritnmods-bl-03", type = "int-setting", default = 2 },
+            -- Set power switch light size to something a bit less glaring.
+            { name = "ritnmods-bl-04", type = "int-setting", default = 2 },
+        }
+    },
     ['Gun_Turret_Alerts'] = {
         player = {
             -- Disable ammo warnings for cars to avoid spam from reserve/temporary cars.

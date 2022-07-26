@@ -114,6 +114,13 @@ local mod_setting_overrides = {
             { name = "qis-fuzzy-search", type = "bool-setting", default = true }
         }
     },
+    ['QuickMapTag'] = {
+        player = {
+            -- Set default label for tag, and disable showing the edit dialog for making it super-fast to place new tags.
+            { name = "quick-map-tag_new-tag-text", type = "string-setting", default = "POI" },
+            { name = "quick-map-tag_use-add-tag-gui", type = "bool-setting", default = false },
+        }
+    },
     ['RateCalculator'] = {
         player = {
             -- Dismiss the tool after selecting an area. Might be preferred way and more consistent in how the other selection tools behave.

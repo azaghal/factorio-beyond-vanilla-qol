@@ -46,6 +46,7 @@
         "QuickItemSearch >= 2.1.4",
         "QuickbarTemplates >= 2.2.0",
         "quickbar-vertical-swap >= 1.0.0",
+        "QuickMapTag >= 0.3.1",
         "RateCalculator >= 2.4.4",
         "RealisticFlashlight >= 0.2.4",
         "RecipeBook >= 3.4.5",

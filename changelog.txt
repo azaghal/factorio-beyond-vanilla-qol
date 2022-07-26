@@ -4,6 +4,7 @@ Date: 9999-99-99
   Changes:
   Features:
     - Improved visibility for power switch and train stop status light indicators (via "Big Light")
+    - Quicker map tagging using right-click (via "Quick Map Tag")
   Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0

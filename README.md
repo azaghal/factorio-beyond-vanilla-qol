@@ -165,6 +165,10 @@ Features
 
     > Additional savegame-specific achievements to track and share with others.
 
+-   Quicker map tagging using right-click ([Quick Map Tag](https://mods.factorio.com/mod/QuickMapTag))
+
+    > (Re)introduces simpler map tagging (from older versions of Factorio). Simply right-click on the map to place a tag. Click on the tag (as usual) to edit it.
+
 -   Easily move around/past pipes and tightly-packed machines ([Squeak Through](https://mods.factorio.com/mod/Squeak%20Through))
 
     > Makes it easier to move around the base, particularly being able to get past pipes and tightly packed machines - without having to deconstruct them just to get out.

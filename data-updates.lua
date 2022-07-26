@@ -106,6 +106,10 @@ local control_overrides = {
         { name = "toggle-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-1", alternative_key_sequence = "" },
         { name = "open-constant-combinator-hotkey", key_sequence = "CONTROL + mouse-button-2", alternative_key_sequence = "" }
     },
+    ['Renamer'] = {
+        -- Default binding (CONTROL + R) is already in use for belt reversing which is a way more useful binding.
+        { name = "rename", key_sequence = "SHIFT + ALT + R", alternative_key_sequence = "" },
+    },
     ['ShuttleTrainRefresh'] = {
         -- Shuttle trains are used often, it is useful to bind controls to something that is always readily available.
         { name = "call-shuttle-train", key_sequence = "mouse-button-3", alternative_key_sequence = "" },

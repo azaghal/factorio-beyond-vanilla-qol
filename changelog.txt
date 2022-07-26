@@ -7,6 +7,7 @@ Date: 9999-99-99
     - Quicker map tagging using right-click (via "Quick Map Tag")
     - Thicker power cables and logic wires(via "Thicker Power Wires")
     - Show unfulfilled requests in the current logistic network (via "What's Missing?")
+    - Rename locomotives, labs, roboports, and radars (via "Renamer")
   Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0

@@ -173,6 +173,10 @@ Features
 
     > (Re)introduces simpler map tagging (from older versions of Factorio). Simply right-click on the map to place a tag. Click on the tag (as usual) to edit it.
 
+-   Rename locomotives, labs, roboports, and radars ([Renamer](https://mods.factorio.com/mod/Renamer))
+
+    > Assign custom names to any entity that can have a (backer) name by hovering over them and using the control binding. Train stops can be renamed in this manner as well.
+
 -   Easily move around/past pipes and tightly-packed machines ([Squeak Through](https://mods.factorio.com/mod/Squeak%20Through))
 
     > Makes it easier to move around the base, particularly being able to get past pipes and tightly packed machines - without having to deconstruct them just to get out.

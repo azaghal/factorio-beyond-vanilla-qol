@@ -169,6 +169,10 @@ Features
 
     > Additional savegame-specific achievements to track and share with others.
 
+-   Pick-up leftover items alongside inserters ([Pick It Up](https://mods.factorio.com/mod/pickitup))
+
+    > Annoyed by leftover items on the ground when picking up inserters? Annoy no more - just pick-up an inserter, and the item placed by inserter (in its final struggle) will get picked-up as well.
+
 -   Quicker map tagging using right-click ([Quick Map Tag](https://mods.factorio.com/mod/QuickMapTag))
 
     > (Re)introduces simpler map tagging (from older versions of Factorio). Simply right-click on the map to place a tag. Click on the tag (as usual) to edit it.

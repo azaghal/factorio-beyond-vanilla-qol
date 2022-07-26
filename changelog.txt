@@ -8,6 +8,7 @@ Date: 9999-99-99
     - Thicker power cables and logic wires(via "Thicker Power Wires")
     - Show unfulfilled requests in the current logistic network (via "What's Missing?")
     - Rename locomotives, labs, roboports, and radars (via "Renamer")
+    - Pick-up leftover items alongside inserters (via "Pick It Up")
   Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0

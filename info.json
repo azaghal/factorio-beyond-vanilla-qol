@@ -41,6 +41,7 @@
         "Milestones >= 1.3.4",
         "ModuleInserter >= 5.2.4",
         "PavementDriveAssistContinued >= 4.0.0",
+        "pickitup >= 0.0.3",
         "PipeVisualizer >= 1.0.4",
         "QueueToFrontNG >= 0.18.3",
         "QuickItemSearch >= 2.1.4",

@@ -6,6 +6,7 @@ Date: 9999-99-99
     - Improved visibility for power switch and train stop status light indicators (via "Big Light")
     - Quicker map tagging using right-click (via "Quick Map Tag")
     - Thicker power cables and logic wires(via "Thicker Power Wires")
+    - Show unfulfilled requests in the current logistic network (via "What's Missing?")
   Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0

@@ -146,6 +146,10 @@ Features
 
     > Use text-based search for getting an item (or its ghost) into cursor, set temporary or permanent personal logistic requests for getting the items, and auto-trash excess items from the inventory (trash everything above minimum values configured in personal logistics requests). For those times when you need an odd item or two that's not readily available in your quickbar. Use the default `CONTROL + F` control to show the item search window. **WARNING:** Current version of the mod contains a bug that makes the auto-trashing and temporary requests work a bit unreliable, and mess up your personal logistics requests set-up.
 
+-   Show unfulfilled requests in the current logistic network ([What's Missing?](https://mods.factorio.com/mod/whats-missing))
+
+    > Keep on top of missing ingredients delivered through logistic network to requester and buffer chests.
+
 
 ### Miscellaneous
 

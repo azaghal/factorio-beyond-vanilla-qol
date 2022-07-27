@@ -2,6 +2,7 @@
 Version: 999.999.999
 Date: 9999-99-99
   Changes:
+    - Bumped Advanced Artillery Remotes Continued to latest version (verbose logging is now off by default).
   Features:
   Bugfixes:
 ---------------------------------------------------------------------------------------------------

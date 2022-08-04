@@ -346,6 +346,6 @@ License
 All code, documentation, and assets implemented as part of this modpack are released under the terms of MIT license (see the accompanying `LICENSE`) file, with the following exceptions:
 
 -   [assets/ice-cream-cone.svg](https://game-icons.net/1x1/delapouite/ice-cream-cone.html), by Delapouite under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/), used in creation of modpack thumbnail.
--   [assets/ice-cream-cone.svg](https://game-icons.net/1x1/delapouite/ice-cream-cone.html), by Delapouite under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/), used in creation of modpack thumbnail.
+-   [assets/swiss-army-knife.svg](https://game-icons.net/1x1/delapouite/swiss-army-knife.html), by Delapouite under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/), used in creation of modpack thumbnail.
 
 All individual mods that are included by this modpack have their own licensing terms. For details please have a look at individual mod pages on [Factorio Mods portal](https://mods.factorio.com/).

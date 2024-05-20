@@ -4,6 +4,7 @@ Date: 9999-99-99
   Changes:
     - Bumped Advanced Artillery Remotes Continued to latest version (verbose logging is now off by default).
     - Bumped Factory Planner to latest version. Mod settings can no longer be set via modpack (default timescale).
+    - Bumped Ghost Counter to latest version.
   Features:
   Bugfixes:
 ---------------------------------------------------------------------------------------------------

@@ -75,7 +75,6 @@ local control_overrides = {
     },
     ['ghost-counter'] = {
         { name = "ghost-counter-selection-hotkey", key_sequence = "ALT + X", alternative_key_sequence = "" },
-        { name = "ghost-counter-blueprint-hotkey", key_sequence = "SHIFT + X", alternative_key_sequence = "" }
     },
     ['manual-inventory-sorting'] = {
         -- Disable all shortcuts for toggling and sorting manually. Most likely players just want everything sorted from the get-go.

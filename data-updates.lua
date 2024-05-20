@@ -66,7 +66,8 @@ local control_overrides = {
         -- Controls feel too specific, and they are using shortcuts with good chances of being used for something with more frequent usage (convenient location-wise).
         { name = "fp_toggle_compact_view", key_sequence = "", alternative_key_sequence = "" },
         { name = "fp_toggle_pause", key_sequence = "", alternative_key_sequence = "" },
-        { name = "fp_floor_up", key_sequence = "", alternative_key_sequence = "" }
+        { name = "fp_up_floor", key_sequence = "", alternative_key_sequence = "" },
+        { name = "fp_top_floor", key_sequence = "", alternative_key_sequence = "" },
     },
     ['Fill4Me'] = {
         -- Clear binding for single entity reload. Not sure how useful it really is.

@@ -76,12 +76,6 @@ local mod_setting_overrides = {
             { name = "global-max-inventory-cleanup-range", type = "int-setting", default = 10 },
         }
     },
-    ['factoryplanner'] = {
-        player = {
-            -- Set default timescale unit to be one second. Easier for players to grasp, particularly since many things like belts etc show speeds per second .
-            { name = "fp_default_timescale", type = "string-setting", default = "one_second" }
-        }
-    },
     ['far-reach'] = {
         map = {
             -- Add bonus only to resource reach so it matches the building reach. Keep others at vanilla values.

@@ -74,10 +74,6 @@ local control_overrides = {
         -- Can only craft one specific pre-configured amount, wheres as Crafting Tools can do 1/5.
         { name = "cen-quick-craft", key_sequence = "", alternative_key_sequence = "" },
     },
-    ['EditorExtensions'] = {
-        -- Use slightly more convenient key sequence for the editor.
-        { name = "ee-toggle-map-editor", key_sequence = "CONTROL + E", alternative_key_sequence = "" },
-    },
     ['factoryplanner'] = {
         { name = "fp_toggle_interface", key_sequence = "CONTROL + ALT + R", alternative_key_sequence = "" },
         -- Controls feel too specific, and they are using shortcuts with good chances of being used for something with more frequent usage (convenient location-wise).

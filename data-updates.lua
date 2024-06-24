@@ -104,6 +104,13 @@ local control_overrides = {
         { name = "toggle_cruise_control", key_sequence = "ALT + V", alternative_key_sequence = "" },
         { name = "set_cruise_control_limit", key_sequence = "SHIFT + ALT + V", alternative_key_sequence = "" }
     },
+    ['PipeVisualizer'] = {
+        -- Avoid conflict with resource highlighter key binding. Use mnemonic (P for pipe).
+        { name = "pv-color-by-fluid-system", key_sequence = "SHIFT + P", alternative_key_sequence = "" },
+        { name = "pv-toggle-mouseover", key_sequence = "CONTROL + P", alternative_key_sequence = "" },
+        { name = "pv-toggle-overlay", key_sequence = "CONTROL + SHIFT + P", alternative_key_sequence = "" },
+        { name = "pv-visualize-selected", key_sequence = "", alternative_key_sequence = "" },
+    },
     ['QuickItemSearch'] = {
         -- Use same binding as the game's default focus search control - reduces number of shortcuts needs to remember.
         { name = "qis-search", key_sequence = "CONTROL + F", alternative_key_sequence = "" },

@@ -22,9 +22,11 @@ Date: 9999-99-99
     - Bumped Ghost Counter to latest version.
     - Bumped Milestones to latest version.
     - Bumped Pavement Drive Assist Continued to latest version.
+    - Bumped Pipe Visualizer to latest version.
     - Enable use of artillery cluster remote for singular shots.
     - Modpack controls configuration for Blueprint Tools. SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
     - Modpack controls configuration for Cursor Enhancements. Quick craft key binding is disabled (Crafting Tools provides for better quantity control).
+    - Modpack controls configuration for Pipe Visualizer. SHIFT + P for switch colour mode, CONTROL + P for toggling mouseover visualisation, CONTROL + SHIFT + P for toggling overlay. Visualize selected is unbound.
   Features:
   Bugfixes:
 ---------------------------------------------------------------------------------------------------

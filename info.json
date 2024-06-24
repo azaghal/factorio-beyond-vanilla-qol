@@ -43,7 +43,7 @@
         "ModuleInserter >= 5.2.4",
         "PavementDriveAssistContinued >= 4.1.1",
         "pickitup >= 0.0.3",
-        "PipeVisualizer >= 1.0.4",
+        "PipeVisualizer >= 2.2.1",
         "QueueToFrontNG >= 0.18.3",
         "QuickItemSearch >= 2.1.4",
         "QuickbarTemplates >= 2.2.0",

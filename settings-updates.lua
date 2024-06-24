@@ -7,6 +7,10 @@ local mod_setting_overrides = {
         map = {
             -- Target both spawners and worms.
             { name = "aar-cluster-mode", type = "string-setting", default = "spawner-and-worms" }
+        },
+        player = {
+            -- Enable use of cluster remote for single shots.
+            { name = "aar-cluster-single-target-fallback", type="string-setting", default = true }
         }
     },
     ['BigLight'] = {

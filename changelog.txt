@@ -4,6 +4,9 @@ Date: 9999-99-99
   Changes:
     - Bumped minimum base game version to 1.1.107.
     - Bumped Advanced Artillery Remotes Continued to latest version (verbose logging is now off by default).
+    - Bumped Automatic Train Painter to latest version.
+    - Bumped Big Light to latest version.
+    - Bumped Blueprint Signals (continued) to latest version.
     - Bumped Factory Planner to latest version. Mod settings can no longer be set via modpack (default timescale).
     - Bumped Ghost Counter to latest version.
     - Enable use of artillery cluster remote for singular shots.

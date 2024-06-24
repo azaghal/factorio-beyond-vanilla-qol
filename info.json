@@ -45,7 +45,7 @@
         "pickitup >= 0.0.3",
         "PipeVisualizer >= 2.2.1",
         "QueueToFrontNG >= 0.18.3",
-        "QuickItemSearch >= 2.1.4",
+        "QuickItemSearch >= 2.1.10",
         "QuickbarTemplates >= 2.2.0",
         "quickbar-vertical-swap >= 1.0.0",
         "QuickMapTag >= 0.3.1",

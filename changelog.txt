@@ -7,9 +7,11 @@ Date: 9999-99-99
     - Bumped Automatic Train Painter to latest version.
     - Bumped Big Light to latest version.
     - Bumped Blueprint Signals (continued) to latest version.
+    - Bumped Blueprint Tools to latest version.
     - Bumped Factory Planner to latest version. Mod settings can no longer be set via modpack (default timescale).
     - Bumped Ghost Counter to latest version.
     - Enable use of artillery cluster remote for singular shots.
+    - Modpack controls configuration for Blueprint Tools. SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
   Features:
   Bugfixes:
 ---------------------------------------------------------------------------------------------------

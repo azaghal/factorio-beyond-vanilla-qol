@@ -15,7 +15,16 @@ local control_overrides = {
         { name = "bpt-swap-wire-colors", key_sequence = "", alternative_key_sequence = "" },
         { name = "bpt-set-tiles", key_sequence = "", alternative_key_sequence = "" },
         { name = "bpt-quick-grid", key_sequence = "", alternative_key_sequence = "" },
-        { name = "bpt-configure", key_sequence = "", alternative_key_sequence = "" }
+        { name = "bpt-configure", key_sequence = "", alternative_key_sequence = "" },
+        { name = "bpt-nudge-absolute-grid-up", key_sequence = "CONTROL + UP", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-down", key_sequence = "CONTROL + DOWN", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-left", key_sequence = "CONTROL + LEFT", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-right", key_sequence = "CONTROL + RIGHT", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-book-up", key_sequence = "CONTROL + SHIFT + UP", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-book-down", key_sequence = "CONTROL + SHIFT + DOWN", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-book-left", key_sequence = "CONTROL + SHIFT + LEFT", alternative_key_sequence = ""},
+        { name = "bpt-nudge-absolute-grid-book-right", key_sequence = "CONTROL + SHIFT + RIGHT", alternative_key_sequence = ""},
+
     },
     ['Kux-CraftingTools'] = {
         -- Disable all craft-from-quickbar shortcuts. While useful,

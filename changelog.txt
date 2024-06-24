@@ -9,17 +9,19 @@ Date: 9999-99-99
     - Bumped Big Light to latest version.
     - Bumped Blueprint Signals (continued) to latest version.
     - Bumped Blueprint Tools to latest version.
-    - Bumped Crafting Tools to latest version.
-    - Bumped Factory Planner to latest version. Mod settings can no longer be set via modpack (default timescale).
-    - Bumped Ghost Counter to latest version.
     - Bumped Bottleneck Lite to latest version.
     - Bumped Color Coded Planners to latest version.
     - Bumped Construction Planner Continued to latest version.
+    - Bumped Crafting Tools to latest version.
     - Bumped Cursor Enhancements to latest version.
     - Bumped Editor Extensions to latest version.
     - Bumped Extended Descriptions to latest version.
+    - Bumped Factory Planner to latest version. Mod settings can no longer be set via modpack (default timescale).
     - Bumped Factory Search to latest version.
     - Bumped Far Reach to latest version.
+    - Bumped Ghost Counter to latest version.
+    - Bumped Milestones to latest version.
+    - Bumped Pavement Drive Assist Continued to latest version.
     - Enable use of artillery cluster remote for singular shots.
     - Modpack controls configuration for Blueprint Tools. SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
     - Modpack controls configuration for Cursor Enhancements. Quick craft key binding is disabled (Crafting Tools provides for better quantity control).

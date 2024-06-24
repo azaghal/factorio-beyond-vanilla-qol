@@ -25,6 +25,16 @@ Date: 9999-99-99
     - Bumped Pipe Visualizer to latest version.
     - Bumped Quick Item Search to latest version.
     - Bumped Rate Calculator to latest version.
+    - Bumped Recipe Book to latest version.
+    - Bumped Reosurce Highlighter to latest version.
+    - Bumped Shortcuts for 1.1 to latest version.
+    - Bumped Shuttle Train Refresh to latest version.
+    - Bumped Spidertron Enhancements to latest version.
+    - Bumped Spidertron Patrols to latest version.
+    - Bumped Tapeline to latest version.
+    - Bumped Task List to latest version.
+    - Bumped Train Groups to latest version.
+    - Bumped YARM - Resource Monitor to latest version.
     - Enable use of artillery cluster remote for singular shots.
     - Modpack controls configuration for Blueprint Tools. SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
     - Modpack controls configuration for Cursor Enhancements. Quick craft key binding is disabled (Crafting Tools provides for better quantity control).

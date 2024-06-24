@@ -130,7 +130,9 @@ local mod_setting_overrides = {
     ['RateCalculator'] = {
         player = {
             -- Dismiss the tool after selecting an area. Might be preferred way and more consistent in how the other selection tools behave.
-            { name = "rcalc-dismiss-tool-on-selection", type = "bool-setting", default = true }
+            { name = "rcalc-dismiss-tool-on-selection", type = "bool-setting", default = true },
+            -- Shows power consumption by default. Useful when figuring out big builds with beacons.
+            { name = "rcalc-show-power-consumption", type = "bool-setting", default = true },
         }
     },
     ['SpidertronEnhancements'] = {

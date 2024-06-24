@@ -24,6 +24,7 @@ Date: 9999-99-99
     - Bumped Pavement Drive Assist Continued to latest version.
     - Bumped Pipe Visualizer to latest version.
     - Bumped Quick Item Search to latest version.
+    - Bumped Rate Calculator to latest version.
     - Enable use of artillery cluster remote for singular shots.
     - Modpack controls configuration for Blueprint Tools. SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
     - Modpack controls configuration for Cursor Enhancements. Quick craft key binding is disabled (Crafting Tools provides for better quantity control).

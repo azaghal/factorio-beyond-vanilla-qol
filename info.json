@@ -24,7 +24,7 @@
         "ConfigLampTimes >= 0.0.5",
         "ConstructionPlannerContinued >= 3.0.0",
         "CopyPasteModules >= 0.1.1",
-        "CursorEnhancements >= 1.2.3",
+        "CursorEnhancements >= 2.1.1",
         "EditorExtensions >= 1.13.4",
         "EnableResearchQueue >= 1.0.4",
         "even-distribution >= 1.0.10",

@@ -10,6 +10,9 @@ Date: 9999-99-99
     - Bumped Blueprint Tools to latest version.
     - Bumped Factory Planner to latest version. Mod settings can no longer be set via modpack (default timescale).
     - Bumped Ghost Counter to latest version.
+    - Bumped Bottleneck Lite to latest version.
+    - Bumped Color Coded Planners to latest version.
+    - Bumped Construction Planner Continued to latest version.
     - Enable use of artillery cluster remote for singular shots.
     - Modpack controls configuration for Blueprint Tools. SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
   Features:

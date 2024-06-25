@@ -198,6 +198,10 @@ Features
 
     > Reduces tedium of setting up personal logistics on both the player character and spidetrons. Allows carrying over configuration from one game to another.
 
+-   Configure and populate equipment grids using blueprints and robots ([Equipment Grid Templates](https://mods.factorio.com/mod/equipment-grid-templates))
+
+    > Removes the hassle of repeatedly having to set-up the equipment grid for both player character and vehicles (like spidetrons). Blueprint templates can be passed from one game to another.
+
 
 ### Planning
 

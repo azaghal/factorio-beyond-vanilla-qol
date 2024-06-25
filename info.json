@@ -27,6 +27,7 @@
         "CursorEnhancements >= 2.1.1",
         "EditorExtensions >= 2.2.4",
         "EnableResearchQueue >= 1.0.4",
+        "equipment-grid-templates >= 1.0.2",
         "even-distribution >= 1.0.10",
         "extended-descriptions >= 1.2.3",
         "factoryplanner >= 1.1.78",

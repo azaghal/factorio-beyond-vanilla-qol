@@ -2,43 +2,53 @@
 Version: 999.999.999
 Date: 9999-99-99
   Changes:
-    - Bumped minimum base game version to 1.1.107.
-    - Bumped "Advanced Artillery Remotes Continued" to latest version (verbose logging is now off by default).
-    - Bumped "Ammo Alerts" to latest version.
-    - Bumped "Automatic Train Painter" to latest version.
-    - Bumped "Big Light" to latest version.
-    - Bumped "Blueprint Signals (continued)" to latest version.
-    - Bumped "Blueprint Tools" to latest version.
-    - Bumped "Bottleneck Lite" to latest version.
-    - Bumped "Color Coded Planners" to latest version.
-    - Bumped "Construction Planner" Continued to latest version.
-    - Bumped "Crafting Tools" to latest version.
-    - Bumped "Cursor Enhancements" to latest version.
-    - Bumped "Editor Extensions" to latest version.
-    - Bumped "Extended Descriptions" to latest version.
-    - Bumped "Factory Planner" to latest version. Mod settings can no longer be set via modpack (default timescale).
-    - Bumped "Factory Search" to latest version.
-    - Bumped "Far Reach" to latest version.
-    - Bumped "Ghost Counter" to latest version.
-    - Bumped "Milestones" to latest version.
-    - Bumped "Pavement Drive Assist Continued" to latest version.
-    - Bumped "Pipe Visualizer" to latest version.
-    - Bumped "Quick Item Search" to latest version.
-    - Bumped "Rate Calculator" to latest version.
-    - Bumped "Recipe Book" to latest version.
-    - Bumped "Reosurce Highlighter" to latest version.
-    - Bumped "Shortcuts for 1.1" to latest version.
-    - Bumped "Shuttle Train Refresh" to latest version.
-    - Bumped "Spidertron Enhancements" to latest version.
-    - Bumped "Spidertron Patrols" to latest version.
-    - Bumped "Tapeline" to latest version.
-    - Bumped "Task List" to latest version.
-    - Bumped "Train Groups" to latest version.
-    - Bumped "YARM - Resource Monitor" to latest version.
-    - Enable use of artillery cluster remote for singular shots.
-    - Modpack controls configuration for "Blueprint Tools". SHIFT + arrows for nudging the blueprint, CONTROL + arrows for nudging blueprint grid, and CONTROL + SHIFT + arrow for nudging blueprint book grid.
-    - Modpack controls configuration for "Cursor Enhancements". Quick craft key binding is disabled (Crafting Tools provides for better quantity control).
-    - Modpack controls configuration for "Pipe Visualizer". SHIFT + P for switch colour mode, CONTROL + P for toggling mouseover visualisation, CONTROL + SHIFT + P for toggling overlay. Visualize selected is unbound.
+    - Dependency updates:
+      - Base game (to version 1.1.107)
+      - Advanced Artillery Remotes Continued
+      - Ammo Alerts
+      - Automatic Train Painter
+      - Big Light
+      - Blueprint Signals (continued)
+      - Blueprint Tools
+      - Bottleneck Lite
+      - Color Coded Planners
+      - Construction Planner
+      - Crafting Tools
+      - Cursor Enhancements
+      - Editor Extensions
+      - Extended Descriptions
+      - Factory Planner
+      - Factory Search
+      - Far Reach
+      - Ghost Counter
+      - Milestones
+      - Pavement Drive Assist Continued
+      - Pipe Visualizer
+      - Quick Item Search
+      - Rate Calculator
+      - Recipe Book
+      - Reosurce Highlighter
+      - Shortcuts for 1.1
+      - Shuttle Train Refresh
+      - Spidertron Enhancements
+      - Spidertron Patrols
+      - Tapeline
+      - Task List
+      - Train Groups
+      - YARM - Resource Monitor
+    - Settings:
+      - Advanced Artillery Remotes Continued, verbose logging is off by default
+      - Advanced Artillery Remotes Continued, enable use of artillery cluster remote for singular shots
+      - Factory Planner, mod settings can no longer be set via modpack (default timescale)
+    - Modpack controls configuration:
+      - Blueprint Tools, SHIFT + arrows for nudging the blueprint
+      - Blueprint Tools, CONTROL + arrows for nudging blueprint grid
+      - Blueprint Tools, CONTROL + SHIFT + arrow for nudging blueprint book grid
+      - Cursor Enhancements, quick craft key binding is disabled (use Crafting Tools instead)
+      - Pipe Visualizer, SHIFT + P to switch colour mode
+      - Pipe Visualizer, CONTROL + P for toggling mouseover visualisation
+      - Pipe Visualizer, CONTROL + SHIFT + P for toggling overlay
+      - Pipe Visualzier, visualize selected is unbound
   Features:
   Bugfixes:
 ---------------------------------------------------------------------------------------------------

@@ -190,6 +190,10 @@ Features
 
     > Makes it easier to move around the base, particularly being able to get past pipes and tightly packed machines - without having to deconstruct them just to get out.
 
+-   Use blueprints for managing inventory filters ([Inventory Templates](https://mods.factorio.com/mod/inventory-templates))
+
+    > Allows export and import of inventory filters in form of blueprints (player character, vehicles, chests).
+
 
 ### Planning
 

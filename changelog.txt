@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
+Version: 2.0.0
+Date: 2024-06-26
   Changes:
     - Dependency updates:
       - Base game (to version 1.1.107)
@@ -49,8 +49,6 @@ Date: 9999-99-99
       - Pipe Visualizer, CONTROL + P for toggling mouseover visualisation
       - Pipe Visualizer, CONTROL + SHIFT + P for toggling overlay
       - Pipe Visualzier, visualize selected is unbound
-  Features:
-  Bugfixes:
 ---------------------------------------------------------------------------------------------------
 Version: 1.3.0
 Date: 2022-07-26

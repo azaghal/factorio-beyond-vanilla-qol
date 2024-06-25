@@ -194,6 +194,10 @@ Features
 
     > Allows export and import of inventory filters in form of blueprints (player character, vehicles, chests).
 
+-   Manage personal logistics configurations via blueprints ([Personal Logistics Templates](https://mods.factorio.com/mod/personal-logistics-templates))
+
+    > Reduces tedium of setting up personal logistics on both the player character and spidetrons. Allows carrying over configuration from one game to another.
+
 
 ### Planning
 

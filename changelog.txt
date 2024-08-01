@@ -1,8 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
-  Changes:
-  Features:
+Version: 2.0.1
+Date: 2024-08-01
   Bugfixes:
     - Fixed incorrect setting for enabling use of cluster artillery remote for firing single shots.
 ---------------------------------------------------------------------------------------------------

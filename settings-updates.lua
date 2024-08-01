@@ -10,7 +10,7 @@ local mod_setting_overrides = {
         },
         player = {
             -- Enable use of cluster remote for single shots.
-            { name = "aar-cluster-single-target-fallback", type="string-setting", default = true }
+            { name = "aar-cluster-single-target-fallback", type="bool-setting", default = true }
         }
     },
     ['BigLight'] = {
